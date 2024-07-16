@@ -1,0 +1,13 @@
+﻿Case,Sequence ID,Date death,Owner,Owner's origin,Sex,Age(years),Accessibility outside
+1,34_2021,"Feb, 2021",Yes,Puno,Female,2.2,Sometimes with the owner
+2,52_2021,"Feb, 2021",Yes,Puno,Female,0.6,Half-time inside/outside
+3,68_2021,"Mar, 2021",Yes,Huambo,Male,1.5,-
+4,71_2021,"Mar, 2021",Yes,-,Male,2.5,-
+5,73_2021,"Mar, 2021",Yes,Cuzco,Male,2.1,-
+6,107_2021,"Mar, 2021",Yes,Pedregal,Male,5,-
+7,147_2021,"Apr, 2021",Yes,-,Male,5,Always outside
+8,202_2021,"Jun, 2021",Yes,-,Male,5,Sometimes alone
+9,250_2021,"Aug, 2021",No,-,Female,4,Always outside
+10,251_2021,"Aug, 2021",Yes,-,Male,0.4,Half-time inside/outside
+11,236_2022,"Sep, 2022",Yes,-,Male,5,Sometimes with the owner
+12,236_2022,"Oct, 2022",Yes,Pedregal,Male,5,Sometimes alone

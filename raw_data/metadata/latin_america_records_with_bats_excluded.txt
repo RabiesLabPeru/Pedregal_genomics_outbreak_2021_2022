@@ -1,0 +1,1328 @@
+sequence.sequenceID	alignment.name	alignment.displayName	sequence.m49_country.id	sequence.m49_country.display_name	sequence.gb_place_sampled	sequence.collection_year	sequence.earliest_collection_year	sequence.latest_collection_year	sequence.gb_length	sequence.gb_create_date	sequence.gb_update_date	sequence.host	sequence.gb_pubmed_id	sequence.isolate	maddog_lineage
+AB083792	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Canis lupus familiaris	12637081	dg2	NULL
+AB083793	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Felis catus	12637081	BRct3	Cosmopolitan AM3a_A1.1.1
+AB083794	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1998	1998	1998	1394	17-Apr-2002	26-Jul-2016	Felis catus	12637081	BRct5	Cosmopolitan AM3a_A1.1.1
+AB083795	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Homo sapiens	12637081	BRhm6	Cosmopolitan AM3a_A1.1.1
+AB083796	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Poços de Caldas	1987	1987	1987	1394	17-Apr-2002	26-Jul-2016	Canis lupus familiaris	12637081	BRdg10	NULL
+AB083797	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Mogi Guaçu	1989	1989	1989	1394	17-Apr-2002	26-Jul-2016	Canis lupus familiaris	12637081	BRdg12	NULL
+AB083798	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Anápolis	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Canis lupus familiaris	12637081	BRdg15	NULL
+AB083799	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Anápolis	1998	1998	1998	1394	17-Apr-2002	26-Jul-2016	Bos	12637081	BRbv17	NULL
+AB083800	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bela Vista	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Equus caballus	12637081	BRhr18	NULL
+AB083801	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goianira	1999	1999	1999	1394	17-Apr-2002	26-Jul-2016	Homo sapiens	12637081	BRhm23	Cosmopolitan AM3a_B1
+AB083802	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Nova Aurora	1998	1998	1998	1394	17-Apr-2002	26-Jul-2016	Sus	12637081	BRpg28	NULL
+AB110656	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1999	1999	1999	2066	18-Nov-2003	16-Jan-2009	Felis catus	15297743	BRct3	NULL
+AB110657	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1999	1999	1999	2066	18-Nov-2003	10-Jan-2009	Homo sapiens	15297743	BRhm6	NULL
+AB110658	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1987	1987	1987	2066	18-Nov-2003	16-Jan-2009	Canis lupus familiaris	15297743	BRdg10	NULL
+AB110659	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1989	1989	1989	2066	18-Nov-2003	16-Jan-2009	Canis lupus familiaris	15297743	BRdg12	NULL
+AB110660	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1999	1999	1999	2066	18-Nov-2003	16-Jan-2009	Equus caballus	15297743	BRhr18	NULL
+AB110661	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1998	1998	1998	2066	18-Nov-2003	16-Jan-2009	Sus scrofa domesticus	15297743	BRpg28	NULL
+AB206407	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx1	NULL
+AB206408	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx2	NULL
+AB206409	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx3	NULL
+AB206410	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx4	NULL
+AB206411	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2005	2005	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes vulpes	16599183	BR-Pfx5	Cosmopolitan AM3b_A1.2
+AB206412	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx7	NULL
+AB206413	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	06-Sep-2005	14-Jul-2016	Vulpes	16599183	BR-Pfx8	NULL
+AB207884	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	1332	21-Sep-2005	14-Jul-2016	Vulpes	-	BR-Pfx6	NULL
+AB247397	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Presidebte Dutra	2004	2004	2004	599	02-Jun-2006	14-Jul-2016	Bos taurus	16773238	BRbv644	NULL
+AB247408	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Gonçarves Dias	2003	2003	2003	599	02-Jun-2006	14-Jul-2016	Felis catus	16773238	BRct333	NULL
+AB247409	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1998	1998	1998	599	02-Jun-2006	14-Jul-2016	Felis catus	16773238	BRct5	NULL
+AB247410	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Anápolis	1999	1999	1999	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg15	NULL
+AB247411	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1999	1999	1999	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg2	NULL
+AB247412	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rio De Janeiro	1985	1985	1985	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg317	NULL
+AB247413	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bacabal	-	-	2006	599	02-Jun-2006	14-Jul-2016	Canis familiaris	16773238	BRdg321	NULL
+AB247414	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Miranda do Norte	2003	2003	2003	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg322	NULL
+AB247415	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Santa Inês	2003	2003	2003	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg325	NULL
+AB247416	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Coroatá 	2003	2003	2003	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg331	NULL
+AB247417	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Capinzal do Norte	-	-	2006	599	02-Jun-2006	14-Jul-2016	Canis familiaris	16773238	BRdg334	NULL
+AB247418	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Barra do Corda	2003	2003	2003	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg335	NULL
+AB247419	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	São João Batista	2005	2005	2005	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg666	NULL
+AB247420	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Moncão	2005	2005	2005	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	16773238	BRdg669	NULL
+AB247430	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx239	NULL
+AB247431	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx240	NULL
+AB247432	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx241	NULL
+AB247433	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx242	NULL
+AB247434	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx245	NULL
+AB247435	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx246	NULL
+AB247436	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx247	NULL
+AB247437	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Vulpes	-	BRfx248	NULL
+AB247438	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Homo sapiens	-	BRhm23	NULL
+AB247439	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Homo sapiens	-	BRhm327	NULL
+AB247444	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Bos taurus	-	BRbv641	NULL
+AB247445	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	-	BRdg657	NULL
+AB247446	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	-	BRdg659	NULL
+AB247447	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	02-Jun-2006	30-Jan-2009	Canis lupus familiaris	-	BRdg661	NULL
+AB247448	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Homo sapiens	-	BRhm328	NULL
+AB247449	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Canis lupus familiaris	-	BRdg665	NULL
+AB247451	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2006	599	02-Jun-2006	14-Jul-2016	Sus	-	BRpg667	NULL
+AB263292	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	1998	1998	1998	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg1	Cosmopolitan AM3a_A1.1.1
+AB263293	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct4	NULL
+AB263294	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg7	Cosmopolitan AM3a_B1.1
+AB263295	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piracanjuba	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg8	Cosmopolitan AM3a_B1.1
+AB263296	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piracanjuba	1998	1998	1998	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct9	NULL
+AB263297	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Poços de Caldas	1987	1987	1987	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg11	NULL
+AB263298	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São João da Boa Vista	1989	1989	1989	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg13	NULL
+AB263299	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São João da Boa Vista	1989	1989	1989	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct14	Cosmopolitan AM3a_A1.1
+AB263300	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Caldas Novas	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg19	Cosmopolitan AM3a_B1.1
+AB263301	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Caldas Novas	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct20	NULL
+AB263302	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Cocalzinho de Goiás	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct21	NULL
+AB263303	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goianira	1998	1998	1998	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct22	NULL
+AB263304	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg24	NULL
+AB263305	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaberai	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct25	NULL
+AB263306	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Leopol do Bulhões	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct26	Cosmopolitan AM3a_B1
+AB263307	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct27	NULL
+AB263308	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Taquaral de Goiás	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg29	NULL
+AB263309	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Andradina	1992	1992	1992	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg77	NULL
+AB263310	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg96	NULL
+AB263311	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg97	NULL
+AB263312	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg98	NULL
+AB263313	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Santa Tereza de Goiás	2001	2001	2001	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg101	Cosmopolitan AM3a_B1
+AB263314	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Ceres	2001	2001	2001	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg102	NULL
+AB263315	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct112	Cosmopolitan AM3a_B1.1
+AB263316	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaberai	1999	1999	1999	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct116	NULL
+AB263317	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	1998	1998	1998	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg117	NULL
+AB263318	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct120	NULL
+AB263319	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg121	NULL
+AB263320	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg125	NULL
+AB263321	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg126	NULL
+AB263322	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiânia	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg127	NULL
+AB263323	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	2000	2000	2000	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg128	NULL
+AB263324	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rio de Janeiro	1985	1985	1985	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg317	NULL
+AB263326	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bacabal	-	-	2007	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg321	NULL
+AB263327	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Miranda do Norte	2003	2003	2003	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg322	NULL
+AB263328	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Santa Inês	2003	2003	2003	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg325	Cosmopolitan AM3a_A1.2.1
+AB263329	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Coroatá 	2003	2003	2003	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg331	NULL
+AB263330	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Gonçalves Dias	2003	2003	2003	1332	03-Apr-2007	20-Jul-2016	Felis catus	17675798	BRct333	Cosmopolitan AM3a_D1
+AB263331	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Capinzal do Norte	-	-	2007	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg334	NULL
+AB263332	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Barra do Corda	2003	2003	2003	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg335	Cosmopolitan AM3a_D1
+AB263334	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Turmalina	2002	2002	2002	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg603	NULL
+AB263335	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Santa Rita	2004	2004	2004	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg640	NULL
+AB263336	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	São João Batista	2004	2004	2004	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg642	NULL
+AB263337	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Santa Rita	2004	2004	2004	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg643	NULL
+AB263338	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Codó	2004	2004	2004	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg646	NULL
+AB263339	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Lima Campos	2004	2004	2004	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg652	NULL
+AB263340	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	São Vicente Ferrer	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg657	NULL
+AB263341	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Viana	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg659	Cosmopolitan AM3a_A1.2.1
+AB263342	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pindaré Mirim	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg661	NULL
+AB263343	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	São João Batista	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg665	NULL
+AB263344	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	São João Batista	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg666	NULL
+AB263345	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Monção	2005	2005	2005	1332	03-Apr-2007	20-Jul-2016	Canis familiaris	17675798	BRdg669	NULL
+AB276307	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Homo sapiens	-	BRhm16	NULL
+AB276308	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Canis lupus familiaris	-	BRdg101	NULL
+AB276309	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Felis catus	-	BRct112	NULL
+AB276310	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Felis catus	-	BRct116	NULL
+AB276311	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Homo sapiens	-	BRhm528	NULL
+AB276312	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Homo sapiens	-	BRhm529	NULL
+AB276313	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Homo sapiens	-	BRhm530	NULL
+AB276314	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	1575	06-Oct-2006	06-Oct-2006	Homo sapiens	-	BRhm531	NULL
+AB291084	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	1999	1999	1999	609	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct112	NULL
+AB291085	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaberai	1999	1999	1999	609	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct116	NULL
+AB291086	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Gonçarves Dias	2003	2003	2003	609	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct333	NULL
+AB291087	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sta Tereza	2001	2001	2001	609	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg101	NULL
+AB291088	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rio de Janeiro	1985	1985	1985	609	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg317	NULL
+AB291089	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Batta do Corda	2003	2003	2003	609	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg335	NULL
+AB291090	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	609	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg96	NULL
+AB291091	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	609	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg97	NULL
+AB291103	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	609	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx1	NULL
+AB291104	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2001	2001	2001	609	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx3	NULL
+AB291105	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	609	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx4	NULL
+AB291106	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	609	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx5	NULL
+AB291107	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	609	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx6	NULL
+AB291114	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Morrinhos	1999	1999	1999	894	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct112	NULL
+AB291115	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaberai	1999	1999	1999	894	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct116	NULL
+AB291116	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Gonçarves Dias	2003	2003	2003	894	01-Aug-2007	05-Dec-2008	Felis catus	18057829	BRct333	NULL
+AB291117	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sta Tereza	2001	2001	2001	894	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg101	NULL
+AB291118	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rio de Janeiro	1985	1985	1985	894	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg317	NULL
+AB291119	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Barra do Corda	2003	2003	2003	894	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg335	NULL
+AB291120	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	894	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg96	NULL
+AB291121	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Itaguaçu	2001	2001	2001	894	01-Aug-2007	05-Dec-2008	Canis familiaris	18057829	BRdg97	NULL
+AB291133	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	894	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx1	NULL
+AB291134	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2001	2001	2001	906	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx3	NULL
+AB291135	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	906	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx4	NULL
+AB291136	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	891	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx5	NULL
+AB291137	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Patos	2002	2002	2002	894	01-Aug-2007	23-Dec-2008	Dusicyon sp.	18057829	BR-Pfx6	NULL
+AB362483	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2009	11924	29-Sep-2009	15-Jan-2011	Dusicyon sp.	19701711	BR-Pfx1	Cosmopolitan_A1.3.2
+AB377125	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sao Paulo state	-	1987	2006	203	05-Nov-2008	01-Jul-2014	Bos taurus	18983685	BRbr272	NULL
+AB377126	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Mato Grosso state	-	1987	2006	203	05-Nov-2008	01-Jul-2014	Bos taurus	18983685	BRbv566	NULL
+AB377127	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Maranhao state	-	1987	2006	203	05-Nov-2008	01-Jul-2014	Bos taurus	18983685	BRbv641	NULL
+AB377128	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Maranhao state	-	1987	2006	203	05-Nov-2008	01-Jul-2014	Bos taurus	18983685	BRbv650	NULL
+AB449211	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2008	1575	11-Dec-2008	26-Jul-2016	Canis lupus familiaris	20018256	BRdg77	NULL
+AB449212	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2008	1575	11-Dec-2008	26-Jul-2016	Canis lupus familiaris	20018256	BRdg96	NULL
+AB449213	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2008	1575	11-Dec-2008	26-Jul-2016	Canis lupus familiaris	20018256	BRdg128	NULL
+AB449214	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2008	1575	11-Dec-2008	26-Jul-2016	Canis lupus familiaris	20018256	BRdg322	NULL
+AB517659	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2012	11923	02-Feb-2012	02-Feb-2012	Canis lupus familiaris	-	BRdg335	Cosmopolitan_A1.3.2
+AB517660	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2012	11925	02-Feb-2012	02-Feb-2012	-	-	BR-Pfx3	Cosmopolitan_A1.3.2
+AB518487	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Felis catus	20926638	BRct9	NULL
+AB518488	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Felis catus	20926638	BRct22	NULL
+AB518489	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg13	NULL
+AB518490	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg117	NULL
+AB518491	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg125	NULL
+AB518492	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg603	NULL
+AB518493	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg640	NULL
+AB518494	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg642	NULL
+AB518495	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2010	1575	27-Feb-2010	08-Jan-2011	Canis lupus familiaris	20926638	BRdg652	NULL
+AF357285	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sao Paulo State	1998	1998	1998	600	05-Apr-2001	19-Apr-2011	Desmodus rotundus	12113496	VB8	NULL
+AY233398	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Tucdg37	NULL
+AY233399	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Jujdg40	NULL
+AY233400	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Tucdg38	NULL
+AY233401	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Tucdg35	NULL
+AY233402	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Tucdg39	NULL
+AY233403	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Tucdg36	NULL
+AY233404	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Fordg53	NULL
+AY233405	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Fordg71	NULL
+AY233406	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Vulpes vulpes	15763144	Chafx119	NULL
+AY233407	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Chadg120	NULL
+AY233408	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg146	NULL
+AY233409	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg46	NULL
+AY233410	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg51	NULL
+AY233411	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg48	NULL
+AY233412	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Felis catus	15763144	Salct49	NULL
+AY233413	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg20	NULL
+AY233414	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg19	NULL
+AY233415	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Felis catus	15763144	Salct50	NULL
+AY233416	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg42	NULL
+AY233417	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg15	NULL
+AY233418	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg43	NULL
+AY233419	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg45	NULL
+AY233420	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg4	NULL
+AY233421	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Felis catus	15763144	Salct47	NULL
+AY233422	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg17	NULL
+AY233423	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg126	NULL
+AY233424	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Canis familiaris	15763144	Saldg21	NULL
+AY233425	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	-	-	2004	320	28-Feb-2004	26-Jul-2016	Felis catus	15763144	Salct41	NULL
+AY561762	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Nuevo Laredo, Tamaulipas	2002	2002	2002	267	10-Mar-2004	10-Mar-2004	15896399	-	4508tampct02	Cosmopolitan
+AY561763	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Nuevo Laredo, Tamaulipas	2002	2002	2002	267	10-Mar-2004	10-Mar-2004	15896399	-	4506tampct02	Cosmopolitan
+AY561764	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Coahuila	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis latrans	15896399	247coahcy01	NULL
+AY561765	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Zacatecas	2000	2000	2000	267	10-Mar-2004	25-May-2005	Bos taurus	15896399	3269zacbov00	NULL
+AY561766	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	San Luis Potosi	1996	1996	1996	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4823slpdg99	NULL
+AY561767	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	San Luis Potosi	1999	1999	1999	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4815slpdg99	NULL
+AY561768	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Jalisco	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3313jaldg02	NULL
+AY561769	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guanajuato	2001	2001	2001	267	10-Mar-2004	25-May-2005	Felis catus	15896399	3275gtoct01	NULL
+AY561770	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Michoacan	2000	2000	2000	267	10-Mar-2004	10-Mar-2004	Canis familiaris	-	3288michdg00	NULL
+AY561771	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	1999	1999	1999	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3299dfdg99	NULL
+AY561772	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	2000	2000	2000	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3260dfdg00	NULL
+AY561773	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	1998	1998	1998	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3244mxdg98	NULL
+AY561774	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	1999	1999	1999	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3284mxdg99	NULL
+AY561775	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3267mxdg01	NULL
+AY561776	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4514mxdg02	NULL
+AY561777	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Estado de Mexico	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3304mxdg02	NULL
+AY561778	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4516mxdg02	NULL
+AY561779	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4511mxdg02	NULL
+AY561780	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	1996	1996	1996	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4822puedg96	NULL
+AY561781	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	2000	2000	2000	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3281puedg00	NULL
+AY561782	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3279puedg01	NULL
+AY561783	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4491mxdg02	NULL
+AY561784	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4513puedg02	NULL
+AY561785	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4519puedg02	NULL
+AY561786	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tlaxcala	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3302tlxdg01	NULL
+AY561787	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tlaxcala	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3303tlxdg02	NULL
+AY561788	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Hidalgo	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3325hgodg02	NULL
+AY561789	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	1999	1999	1999	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3278grodg99	NULL
+AY561790	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	2000	2000	2000	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3251grodg00	NULL
+AY561791	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3285grodg01	NULL
+AY561792	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	3287grodg01	NULL
+AY561793	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Chiapas	2002	2002	2002	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4486chisdg02	NULL
+AY561794	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	1999	1999	1999	267	10-Mar-2004	26-Jul-2016	Canis familiaris	15896399	4476yucdg99	NULL
+AY561796	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	2001	2001	2001	267	10-Mar-2004	25-May-2005	Canis familiaris	15896399	4481yucdg01	NULL
+AY561797	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	2002	2002	2002	267	10-Mar-2004	25-May-2005	Sus scrofa	15896399	4480yucpg02	NULL
+AY561798	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Zacatecas	1999	1999	1999	267	10-Mar-2004	25-May-2005	Urocyon cinereoargenteus	15896399	3280zacfx99	NULL
+AY561799	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Sonora	2001	2001	2001	267	10-Mar-2004	25-May-2005	Urocyon cinereoargenteus	15896399	3253sonfx01	NULL
+AY561800	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Sonora	2002	2002	2002	267	10-Mar-2004	25-May-2005	Lynx rufus	15896399	4510sonbct02	NULL
+AY561801	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Sonora	2002	2002	2002	267	10-Mar-2004	25-May-2005	Urocyon cinereoargenteus	15896399	4498sonfx02	NULL
+AY561802	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Chihuahua	2001	2001	2001	267	10-Mar-2004	25-May-2005	Puma Concolor	15896399	3282chihpm01	NULL
+AY561803	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Sinaloa	2001	2001	2001	267	10-Mar-2004	25-May-2005	Lynx rufus	15896399	3264sinbct01	NULL
+AY561804	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sinaloa	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	641sinsk01	NULL
+AY561805	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sinaloa	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	231sinsk01	NULL
+AY561806	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Durango	-	-	2004	267	10-Mar-2004	26-Jul-2016	-	15896399	1535dgosk01	NULL
+AY561807	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2001	2001	2001	267	10-Mar-2004	25-May-2005	Mephitidae	15896399	3265bcssk01	NULL
+AY561808	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2002	2002	2002	267	10-Mar-2004	25-May-2005	Mephitidae	15896399	3290bcssk02	NULL
+AY561809	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2002	2002	2002	267	10-Mar-2004	25-May-2005	Bos taurus	15896399	3259bcsbv02	NULL
+AY561810	AL_RAC-SK	RAC-SK	MEX	Mexico	Ciudad Juarez, Chihuahua	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	3291chihbv99	RAC-SK
+AY561811	AL_RAC-SK	RAC-SK	MEX	Mexico	Jalisco	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	3247jalsk01	NULL
+AY561812	AL_RAC-SK	RAC-SK	MEX	Mexico	Jalisco	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	3296jalsk01	NULL
+AY561813	AL_RAC-SK	RAC-SK	MEX	Mexico	Jalisco	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	3289jalct00	NULL
+AY561814	AL_RAC-SK	RAC-SK	MEX	Mexico	Zacatecas	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	3248zacsk01	NULL
+AY561815	AL_RAC-SK	RAC-SK	MEX	Mexico	Durango	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	4489dgosk01	NULL
+AY561816	AL_RAC-SK	RAC-SK	MEX	Mexico	San Luis Potosi	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	4502slpsk02	NULL
+AY561817	AL_RAC-SK	RAC-SK	MEX	Mexico	San Luis Potosi	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	4505slpsk02	NULL
+AY561818	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	1999	1999	1999	267	10-Mar-2004	25-May-2005	Cervidae	15896399	4475yucdeer99	NULL
+AY561819	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	1999	1999	1999	267	10-Mar-2004	25-May-2005	Dasyprocta	15896399	4463yuctepz99	NULL
+AY561820	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	-	-	2004	267	10-Mar-2004	25-May-2005	Dasyprocta	15896399	4464yuctepz99	NULL
+AY561821	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	-	-	2004	267	10-Mar-2004	25-May-2005	-	15896399	4466yucuknW5	NULL
+AY561822	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	-	-	2004	267	10-Mar-2004	25-May-2005	Mephitidae	15896399	4471yucsk01	NULL
+AY563516	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2004	533	22-Mar-2004	26-Jul-2016	Homo sapiens	-	428M	NULL
+AY649874	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F09/00	NULL
+AY649875	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F11/01	NULL
+AY649876	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F10/01	NULL
+AY649877	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C57/00	NULL
+AY649878	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C58/00	NULL
+AY649879	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C54/99	NULL
+AY649880	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C42/97	NULL
+AY649881	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C48/98	NULL
+AY649882	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C49/98	NULL
+AY649883	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C51/98	NULL
+AY649884	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C41/97	NULL
+AY649885	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C50/98	NULL
+AY649886	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C52/98	NULL
+AY649887	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C47/98	NULL
+AY649888	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C40/97	NULL
+AY649889	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C38/97	NULL
+AY649890	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C39/97	NULL
+AY649891	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C44/97	NULL
+AY649892	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C43/97	NULL
+AY649893	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C46/98	NULL
+AY649894	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F01/00	NULL
+AY649895	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F02/00	NULL
+AY649896	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F03/00	NULL
+AY649897	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F04/00	NULL
+AY649898	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F05/00	NULL
+AY649899	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F06/00	NULL
+AY649900	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F07/00	NULL
+AY649901	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F08/00	NULL
+AY649902	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F12/01	NULL
+AY649903	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F13/01	NULL
+AY649904	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F14/02	NULL
+AY649905	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F15/02	NULL
+AY649906	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F16/02	NULL
+AY649907	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F17/02	NULL
+AY649908	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F18/02	NULL
+AY649909	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F19/02	NULL
+AY649910	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	F20/03	NULL
+AY649911	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C64/03	NULL
+AY649912	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C65/03	NULL
+AY649913	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	-	-	2004	147	20-Jul-2004	26-Jul-2016	-	15962560	C66/03	NULL
+AY649914	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Barranquilla	1999	1999	1999	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C54/99	NULL
+AY649915	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Antero	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C42/97	NULL
+AY649916	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Momil	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C51/98	NULL
+AY649917	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Montería	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C48/98	NULL
+AY649918	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Sabaneta	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C49/98	NULL
+AY649919	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Cartagena	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C41/97	NULL
+AY649920	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Purísima	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C50/98	NULL
+AY649921	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Andrés	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C52/98	NULL
+AY649922	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Antero	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C40/97	NULL
+AY649923	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Montería	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C38/97	NULL
+AY649924	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Montería	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C39/97	NULL
+AY649925	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Malagana	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C47/98	NULL
+AY649926	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Montería	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C44/97	NULL
+AY649927	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Momil	1997	1997	1997	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C43/97	NULL
+AY649928	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Sahagun	1998	1998	1998	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C46/98	NULL
+AY649929	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Polo Nuevo	2001	2001	2001	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F11/01	NULL
+AY649930	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Palmar de Varela	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F09/00	NULL
+AY649931	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C58/00	NULL
+AY649932	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Barranquilla	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C57/00	NULL
+AY649933	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Manatí	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F01/00	NULL
+AY649934	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Aracataca	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F02/00	NULL
+AY649935	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Polo Nuevo	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F03/00	NULL
+AY649936	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Zona Bananera	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F04/00	NULL
+AY649937	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Santo Tomas	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F05/00	NULL
+AY649938	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Campo de la Cruz	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F06/00	NULL
+AY649939	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundacion	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F07/00	NULL
+AY649940	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Santo Tomas	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F08/00	NULL
+AY649941	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ponedera	2000	2000	2000	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F10/00	NULL
+AY649942	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Palmar de Varela	2001	2001	2001	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F12/01	NULL
+AY649943	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Palmar de Varela	2001	2001	2001	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F13/01	NULL
+AY649944	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2001	2001	2001	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F14/01	NULL
+AY649945	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pinto	2001	2001	2001	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F15/01	NULL
+AY649946	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Aracataca	2002	2002	2002	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F16/02	NULL
+AY649947	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	2002	2002	2002	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F17/02	NULL
+AY649948	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundacion	2002	2002	2002	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F18/02	NULL
+AY649949	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundacion	2002	2002	2002	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F19/02	NULL
+AY649950	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pinto	2003	2003	2003	258	07-Jul-2004	26-Jul-2016	Urocyon cinereoargenteus	15962560	F20/03	NULL
+AY649951	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Galeras	2003	2003	2003	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C64/03	NULL
+AY649952	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2003	2003	2003	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C65/03	NULL
+AY649953	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2003	2003	2003	258	07-Jul-2004	26-Jul-2016	Canis familiaris	15962560	C66/03	NULL
+AY854502	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1045	NULL
+AY854503	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1051	NULL
+AY854504	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1044	Cosmopolitan AM2a_A1
+AY854505	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1079	Cosmopolitan AM2a_A1
+AY854506	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1082	Cosmopolitan AM2a_A1
+AY854507	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1139	Cosmopolitan AM2a_A1
+AY854508	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1053	NULL
+AY854509	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1049	NULL
+AY854510	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1081	NULL
+AY854511	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1106	NULL
+AY854512	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1048	NULL
+AY854513	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1083	NULL
+AY854514	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	529	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1099	NULL
+AY854515	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1074	Cosmopolitan AM2a_A1
+AY854516	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	529	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1047	NULL
+AY854517	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1131	NULL
+AY854518	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1136	NULL
+AY854519	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1042	NULL
+AY854520	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1103	Cosmopolitan AM2a_A1
+AY854521	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1108	NULL
+AY854522	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1110	NULL
+AY854523	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	529	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1041	NULL
+AY854524	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1109	Cosmopolitan AM2a_A1
+AY854525	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1075	Cosmopolitan AM2a_A1
+AY854526	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1080	NULL
+AY854527	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1050	Cosmopolitan AM2a_A1
+AY854528	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1054	NULL
+AY854529	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1085	Cosmopolitan AM2a_A1
+AY854530	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1052	Cosmopolitan AM2a_A1
+AY854531	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1121	Cosmopolitan AM2a_A1
+AY854532	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1132	NULL
+AY854533	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1107	NULL
+AY854534	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1077	Cosmopolitan AM2a_A1
+AY854535	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1058	NULL
+AY854536	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1056	Cosmopolitan AM2a_A1
+AY854537	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	529	30-Apr-2005	25-Jan-2012	Ovis aries	16740188	V1060	NULL
+AY854538	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1087	NULL
+AY854539	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1057	NULL
+AY854540	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1113	NULL
+AY854541	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1055	NULL
+AY854542	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1063	NULL
+AY854543	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1064	NULL
+AY854544	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1067	Cosmopolitan AM2a_A1
+AY854545	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1065	Cosmopolitan AM2a_A1
+AY854546	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1122	Cosmopolitan AM2a_A1
+AY854547	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1125	Cosmopolitan AM2a_A1
+AY854548	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Ovis aries	16740188	V1088	Cosmopolitan AM2a_A1
+AY854549	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	529	30-Apr-2005	25-Jan-2012	Sus scrofa	16740188	V1070	NULL
+AY854550	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Bos taurus	16740188	V1092	Cosmopolitan AM2a_A1
+AY854551	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1035	NULL
+AY854552	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Capra hircus	16740188	V1069	Cosmopolitan AM2a_A1
+AY854553	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	529	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1071	NULL
+AY854554	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1127	Cosmopolitan AM2a_A1
+AY854555	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1091	NULL
+AY854556	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1111	NULL
+AY854557	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1089	NULL
+AY854558	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1101	Cosmopolitan AM2a_A1
+AY854559	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1129	Cosmopolitan AM2a_A1
+AY854560	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1114	Cosmopolitan AM2a_A1
+AY854561	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1115	Cosmopolitan AM2a_A1
+AY854562	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1061	Cosmopolitan AM2a_A1
+AY854563	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	529	30-Apr-2005	25-Jan-2012	Ovis aries	16740188	V1117	NULL
+AY854564	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1118	Cosmopolitan AM2a_A1
+AY854565	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1116	NULL
+AY854566	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1137	NULL
+AY854567	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1036	Cosmopolitan AM2a_A1
+AY854568	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1037	NULL
+AY854569	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1124	Cosmopolitan AM2a_A1
+AY854570	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	530	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1134	NULL
+AY854571	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1135	NULL
+AY854572	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1066	NULL
+AY854573	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1090	Cosmopolitan AM2a_A1
+AY854574	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1072	Cosmopolitan AM2a_A1
+AY854575	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	Felis catus	16740188	V1039	Cosmopolitan AM2a_A1
+AY854576	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	1402	30-Apr-2005	25-Jan-2012	mongoose	16740188	V1040	Cosmopolitan AM2a_A1
+AY854577	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	530	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1038	NULL
+AY854578	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	1402	30-Apr-2005	25-Jan-2012	Canis familiaris	16740188	V1095	Cosmopolitan AM2a_A1
+AY854589	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Quecholac	1990	1990	1990	1367	30-Apr-2005	09-Jun-2006	Canis familiaris	16303200	V590	Cosmopolitan_A1
+AY854590	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Chihuahua	1991	1991	1991	1374	30-Apr-2005	09-Jun-2006	Lynx rufus	16303200	V680	NULL
+AY854591	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Coacalco	1996	1996	1996	1380	30-Apr-2005	09-Jun-2006	Canis familiaris	16303200	V682	Cosmopolitan AM2a_A1
+AY854593	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	-	-	-	2005	1378	30-Apr-2005	09-Jun-2006	skunk	16303200	V684	Cosmopolitan_A1
+AY962048	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São Paulo	1989	1989	1989	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V903	NULL
+AY962049	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São Paulo	1989	1989	1989	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V904	NULL
+AY962054	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São Paulo	1989	1989	1989	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V909	NULL
+AY962057	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V913	NULL
+AY962058	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2001	2001	2001	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V914	NULL
+AY962059	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2000	2000	2000	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V915	NULL
+AY962076	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	-	-	2005	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V969	NULL
+AY962077	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	-	-	2005	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V970	NULL
+AY962079	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goiás	-	-	2005	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V972	NULL
+AY962080	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Mato Grosso do Sul	-	-	2005	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V973	NULL
+AY962081	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	São Paulo	1989	1989	1989	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V974	NULL
+AY962084	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Minas Gerais	1987	1987	1987	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V981	NULL
+AY962086	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Canis familiaris	16227239	V986	NULL
+AY962089	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V996	NULL
+AY962090	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V997	NULL
+AY962091	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V998	NULL
+AY962092	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V999	NULL
+AY962093	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2002	2002	2002	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V1001	NULL
+AY962094	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	528	31-Aug-2005	26-Jul-2016	Vulpes vulpes	16227239	V1002	NULL
+AY998244	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Mexico City	1991	1991	1991	796	04-May-2005	26-Jul-2016	Homo sapiens	16303200	V586	NULL
+AY998247	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	La Paz	1991	1991	1991	607	04-May-2005	26-Jul-2016	skunk	16303200	V589	NULL
+AY998248	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Quecholac	1990	1990	1990	607	04-May-2005	26-Jul-2016	Canis familiaris	16303200	V590	NULL
+AY998249	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Hermosillo	1998	1998	1998	607	04-May-2005	26-Jul-2016	Lynx rufus	16303200	V591	NULL
+AY998254	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Chihuahua	1991	1991	1991	607	04-May-2005	26-Jul-2016	Lynx rufus	16303200	V680	NULL
+AY998256	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Coacalco	1996	1996	1996	607	04-May-2005	26-Jul-2016	Canis familiaris	16303200	V682	NULL
+AY998258	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	-	-	-	2005	607	04-May-2005	26-Jul-2016	skunk	16303200	V684	NULL
+AY998275	AL_RAC-SK	RAC-SK	MEX	Mexico	-	-	-	2005	799	04-May-2005	26-Jul-2016	skunk	16303200	V854	NULL
+AY998283	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	San Pedro Atoyac	2001	2001	2001	607	04-May-2005	26-Jul-2016	Canis familiaris	16303200	V863	NULL
+AY998299	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tecamac	2002	2002	2002	539	04-May-2005	26-Jul-2016	Canis familiaris	16303200	V931	NULL
+DQ116760	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	159	27-Jul-2005	26-Jul-2016	Canis familiaris	16701914	10565dgPB	NULL
+DQ116761	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	9336fxBA	NULL
+DQ116762	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2005	157	27-Jul-2005	26-Jul-2016	Felis catus	16701914	10568gtPB	NULL
+DQ116763	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	10567fxPB	NULL
+DQ116764	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	157	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	1407fxPE	NULL
+DQ116765	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	9337fxBA	NULL
+DQ116766	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	9338fxBA	NULL
+DQ116767	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	9339fxBA	NULL
+DQ116768	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Canis familiaris	16701914	10561dgPB	NULL
+DQ116769	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2005	159	27-Jul-2005	26-Jul-2016	Felis catus	16701914	10562gtPB	NULL
+DQ116770	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	10563fxPB	NULL
+DQ116771	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Felis catus	16701914	10564gtPB	NULL
+DQ116772	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Felis catus	16701914	10566gtPB	NULL
+DQ116773	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	1406fxPE	NULL
+DQ116774	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	1409fxPE	NULL
+DQ116775	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Canis familiaris	16701914	1405dgPE	NULL
+DQ116776	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	-	-	2005	158	27-Jul-2005	26-Jul-2016	Vulpes vulpes	16701914	1403fxPE	NULL
+DQ146726	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	162	21-Aug-2005	26-Jul-2016	Vulpes vulpes	16701914	4372fxPI	NULL
+DQ146727	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	162	21-Aug-2005	26-Jul-2016	Vulpes vulpes	16701914	4369fxPI	NULL
+DQ149104	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2005	1394	21-Aug-2005	26-Jul-2016	Vulpes vulpes	16701914	4371fxPI	Cosmopolitan AM3b_A1
+DQ275563	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	933	30-Apr-2006	26-Jul-2016	mongoose	17869366	V468	NULL
+DQ275564	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	613	30-Apr-2006	26-Jul-2016	mongoose	17869366	V469	NULL
+DQ275565	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	616	30-Apr-2006	26-Jul-2016	mongoose	17869366	V470	NULL
+DQ275566	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	607	30-Apr-2006	26-Jul-2016	mongoose	17869366	V471	NULL
+DQ275567	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	598	30-Apr-2006	26-Jul-2016	mongoose	17869366	V472	NULL
+DQ275568	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	392	30-Apr-2006	26-Jul-2016	mongoose	17869366	V473	NULL
+DQ275569	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	813	30-Apr-2006	26-Jul-2016	mongoose	17869366	V493	NULL
+DQ275570	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V494	NULL
+DQ275571	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V495	NULL
+DQ275572	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V496	NULL
+DQ275573	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	605	30-Apr-2006	26-Jul-2016	mongoose	17869366	V497	NULL
+DQ275574	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	610	30-Apr-2006	26-Jul-2016	mongoose	17869366	V498	NULL
+DQ275575	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	431	30-Apr-2006	26-Jul-2016	-	17869366	V499	NULL
+DQ275576	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	605	30-Apr-2006	26-Jul-2016	mongoose	17869366	V501	NULL
+DQ275577	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	934	30-Apr-2006	26-Jul-2016	Canis familiaris	17869366	V503	NULL
+DQ275578	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	607	30-Apr-2006	26-Jul-2016	Canis familiaris	17869366	V504	NULL
+DQ275579	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	933	30-Apr-2006	26-Jul-2016	Equus caballus	17869366	V507	NULL
+DQ275580	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	395	30-Apr-2006	26-Jul-2016	Felis catus	17869366	V509	NULL
+DQ275581	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	616	30-Apr-2006	26-Jul-2016	Canis familiaris	17869366	V510	NULL
+DQ275582	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	964	30-Apr-2006	26-Jul-2016	Canis familiaris	17869366	V511	NULL
+DQ275583	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	-	-	2006	858	30-Apr-2006	26-Jul-2016	Canis familiaris	17869366	V512	NULL
+DQ275584	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V513	NULL
+DQ275585	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	585	30-Apr-2006	26-Jul-2016	mongoose	17869366	V514	NULL
+DQ275586	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V515	NULL
+DQ275587	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	599	30-Apr-2006	26-Jul-2016	mongoose	17869366	V516	NULL
+DQ275588	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V517	NULL
+DQ275589	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	883	30-Apr-2006	26-Jul-2016	mongoose	17869366	V518	NULL
+DQ275590	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V519	NULL
+DQ275591	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	419	30-Apr-2006	26-Jul-2016	mongoose	17869366	V520	NULL
+DQ275592	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	841	30-Apr-2006	26-Jul-2016	mongoose	17869366	V522	NULL
+DQ275593	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V524	NULL
+DQ275594	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	598	30-Apr-2006	26-Jul-2016	mongoose	17869366	V525	NULL
+DQ275595	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	604	30-Apr-2006	26-Jul-2016	mongoose	17869366	V526	NULL
+DQ275596	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	370	30-Apr-2006	26-Jul-2016	mongoose	17869366	V527	NULL
+DQ275597	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	599	30-Apr-2006	26-Jul-2016	Felis catus	17869366	V508	NULL
+DQ447947	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Fortaleza	1997	1997	1997	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu4531	NULL
+DQ447948	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	1998	1998	1998	320	15-Apr-2006	26-Jul-2016	17326958	-	brcth4122	NULL
+DQ447949	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Caucaia	2000	2000	2000	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu5325	NULL
+DQ447950	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Caucaia	2000	2000	2000	320	15-Apr-2006	26-Jul-2016	17326958	-	brdg5360	NULL
+DQ447951	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paracuru	2000	2000	2000	320	15-Apr-2006	26-Jul-2016	17326958	-	brcth5361	NULL
+DQ447954	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Caucaia	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu5691	NULL
+DQ447955	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Maranguape	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brdg5693	NULL
+DQ447956	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Barroquinha	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brcth5695	NULL
+DQ447957	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Caninde	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brcth5697	NULL
+DQ447958	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Maranguape	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brcth5692	NULL
+DQ447959	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Maranguape	2001	2001	2001	320	15-Apr-2006	26-Jul-2016	17326958	-	brpcr5698	NULL
+DQ447962	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Fortaleza	2002	2002	2002	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu138	NULL
+DQ447963	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Fortaleza	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu142	NULL
+DQ447964	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Umirim	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu130	NULL
+DQ447965	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Fortaleza	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu146	NULL
+DQ447966	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Tururu	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu145	NULL
+DQ447967	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Fortaleza	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu129	NULL
+DQ447968	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Maracanau	2003	2003	2003	320	15-Apr-2006	26-Jul-2016	17326958	-	brhmu131	NULL
+DQ497415	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2001	2001	2001	438	12-Jun-2006	14-Jul-2016	Canis	15863275	2217	NULL
+DQ497416	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraíba	2001	2001	2001	438	12-Jun-2006	14-Jul-2016	Canis	15863275	2263	NULL
+DQ640244	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	-	-	2006	165	17-Jul-2006	14-Jul-2016	Homo sapiens	-	92	NULL
+DQ661014	AL_Cosmopolitan_Vac	Cosmopolitan Vac	BRA	Brazil	-	2000	2000	2000	513	12-Jul-2006	01-Dec-2008	Felis catus	-	LVC41	NULL
+DQ837167	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	548	09-Aug-2006	14-Jul-2016	Felis catus	-	V1039	NULL
+DQ837168	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	520	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1044	NULL
+DQ837169	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	548	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1048	NULL
+DQ837170	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	566	09-Aug-2006	14-Jul-2016	Felis catus	-	V1050	NULL
+DQ837171	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	547	09-Aug-2006	14-Jul-2016	Bos taurus	-	V1054	NULL
+DQ837172	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	544	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1056	NULL
+DQ837173	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	549	09-Aug-2006	14-Jul-2016	Ovis aries	-	V1060	NULL
+DQ837175	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	523	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1063	NULL
+DQ837176	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2000	2000	2000	531	09-Aug-2006	14-Jul-2016	Capra hircus	-	V1069	NULL
+DQ837177	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	518	09-Aug-2006	14-Jul-2016	Sus scrofa	-	V1070	NULL
+DQ837178	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2001	2001	2001	579	09-Aug-2006	14-Jul-2016	mongoose	-	V1079	NULL
+DQ837179	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	548	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1095	NULL
+DQ837180	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	549	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1108	NULL
+DQ837181	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	541	09-Aug-2006	14-Jul-2016	Canis familiaris	-	V1115	NULL
+DQ837182	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	551	09-Aug-2006	14-Jul-2016	Ovis aries	-	V1117	NULL
+DQ837183	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	557	09-Aug-2006	14-Jul-2016	mongoose	-	V1121	NULL
+DQ837184	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CUB	Cuba	-	2002	2002	2002	552	09-Aug-2006	14-Jul-2016	Felis catus	-	V1129	NULL
+EF152231	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2002	2002	2002	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	1406CthPE/2002	Cosmopolitan AM3b_A1.1
+EF152232	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2004	2004	2004	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	9336CthBA/2004	NULL
+EF152233	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2002	2002	2002	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	1407CthPE/2002	NULL
+EF152234	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2006	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	10563CthBA/2003	Cosmopolitan AM3b_A1.2.1
+EF152235	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2002	2002	2002	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	1403CthPE/2002	NULL
+EF152236	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	4368CthPI/2005	NULL
+EF152237	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Felis catus	17889396	10566ctPB/2003	NULL
+EF152238	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Felis catus	17889396	10568ctPB/2003	NULL
+EF152239	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Felis catus	17889396	10564ctPB/2003	NULL
+EF152240	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Felis catus	17889396	10562ctPB/2003	NULL
+EF152241	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6334CthPI/2005	NULL
+EF152242	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	4367CthPI/2005	NULL
+EF152243	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	4372CthPI/2005	NULL
+EF152244	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	4369CthPI/2005	NULL
+EF152245	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6976CthPE/2005	NULL
+EF152246	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Pseudalopex vetulus	17889396	4371PvePI/2005	NULL
+EF152247	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2004	2004	2004	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6129CthPI/2004	NULL
+EF152248	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6967CthPE/2005	Cosmopolitan AM3b_A1.1.1
+EF152249	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	6968dgPE/2005	NULL
+EF152250	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6971CthPE/2005	NULL
+EF152251	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6974CthPE/2005	Cosmopolitan AM3b_A1.1.1
+EF152252	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6975CthPE/2005	NULL
+EF152253	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6978CthPE/2005	NULL
+EF152254	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6980CthPE/2005	NULL
+EF152255	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6970CthPE/2005	NULL
+EF152256	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6973CthPE/2005	NULL
+EF152257	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2006	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6977CthPE/2005	Cosmopolitan AM3b_A1
+EF152258	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Homo sapiens	17889396	6981hmPE/2005	NULL
+EF152259	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	1406CthPE/2005	Cosmopolitan AM3b_A1.1
+EF152260	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	9369dgPE/2005	Cosmopolitan AM3a_D1
+EF152261	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	9370dgPE/2005	NULL
+EF152262	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	9371dgPE/2005	Cosmopolitan AM3a_D1
+EF152263	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	9372dgPE/2005	NULL
+EF152264	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	10561dgPB/2003	NULL
+EF152265	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Felis catus	17889396	10562ctPB/2003	NULL
+EF152266	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraíba	2003	2003	2003	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	10565dgPB/2003	Cosmopolitan AM3a_A1
+EF152267	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2006	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	5070CthPI/2005	Cosmopolitan AM3b_A1
+EF152268	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sergipe	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	6049dgSE/2005	NULL
+EF152269	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sergipe	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	6050dgSE/2005	NULL
+EF152270	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Pseudalopex vetulus	17889396	6333PvePI/2005	NULL
+EF152271	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2006	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	6368CthPI/2005	Cosmopolitan AM3b_A1
+EF152272	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	7576CthBA/2005	NULL
+EF152273	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	7578CthBA/2005	NULL
+EF152274	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Cerdocyon thous	17889396	7579CthBA/2005	Cosmopolitan AM3b_A1
+EF152275	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Maranhão	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	8257dgMA/2005	Cosmopolitan AM3a_A1
+EF152276	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	8575dgPA/2005	Cosmopolitan AM3a_A1.2
+EF152277	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	8578dgPA/2005	NULL
+EF152278	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	8587dgPA/2005	NULL
+EF152279	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	8590dgPA/2005	NULL
+EF152280	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Alagoas	2005	2005	2005	1394	26-Dec-2006	14-Jul-2016	Canis familiaris	17889396	9479dgAL/2005	NULL
+EF194159	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2003	2003	2003	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	4372CthPI/2003	NULL
+EF194160	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2004	2004	2004	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	9339CthBA/2004	Cosmopolitan AM3b_A1
+EF194161	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2007	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	10563CthBA/2003	Cosmopolitan AM3b_A1.2.1
+EF194162	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	6976CthPE/2005	NULL
+EF194163	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sergipe	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	6053CthSE/2005	NULL
+EF194164	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	6334CthPI/2005	NULL
+EF194165	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piauí 	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Cerdocyon thous	17889396	6335CthPI/2005	NULL
+EF194166	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Canis familiaris	17889396	8581dgPA/2005	Cosmopolitan AM3a_A1.2
+EF194167	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pará	2005	2005	2005	1394	14-Jan-2007	14-Jul-2016	Canis familiaris	17889396	8589dgPA/2005	NULL
+EF363731	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Barra do Corda	2006	2006	2006	1376	12-Feb-2007	14-Jul-2016	Canis familiaris	20637811	IP1297Maranhao/2006	NULL
+EF377583	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Zona Bananera	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F04/00	NULL
+EF377584	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Aracataca	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F16/02	NULL
+EF377585	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Bolivar	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H03/97	NULL
+EF377586	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Felis catus	17643540	CT2/01	NULL
+EF377587	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Plato	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/02	NULL
+EF377588	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Sierra Nevada	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C57/01	NULL
+EF377589	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Retén	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C09/01	NULL
+EF377590	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundación	2004	2004	2004	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C03/04	NULL
+EF377591	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	1999	1999	1999	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H06/99	NULL
+EF377592	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chivolo	2004	2004	2004	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/04	NULL
+EF377593	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Zona Bananera	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Felis catus	17643540	CT1/01	NULL
+EF377594	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Aracataca	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F02/00	NULL
+EF377595	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/03	NULL
+EF377596	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chivolo	2004	2004	2004	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/04	NULL
+EF377597	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundación	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F07/00	NULL
+EF377598	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C08/01	NULL
+EF377599	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Malambo	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/02	NULL
+EF377600	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundación	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F18/02	NULL
+EF377601	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/03	NULL
+EF377602	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Fundación	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F19/02	NULL
+EF377603	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Juan Nepomuceno	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C04/01	NULL
+EF377604	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Zona Bananera	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C03/02	NULL
+EF377605	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F22/03	NULL
+EF377606	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Plato	2003	2003	2003	264	18-Feb-2007	14-Jul-2016	Felis catus	17643540	CT1/03	NULL
+EF377607	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C14/01	NULL
+EF377608	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ciénaga	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C15/01	NULL
+EF377609	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pinto	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F15/01	NULL
+EF377610	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Juan Nepomuceno	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/01	NULL
+EF377611	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pivijay	2004	2004	2004	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F23/04	NULL
+EF377612	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Barranquilla	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H06/95	NULL
+EF377613	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Valledupar	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H03/95	NULL
+EF377614	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Magdalena	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F05/00	NULL
+EF377615	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Turbaco	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/97	NULL
+EF377616	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	San Pelayo	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Felis catus	17643540	CT2/97	NULL
+EF377617	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Barranquilla	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C61/01	NULL
+EF377618	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Soledad	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C58/01	NULL
+EF377619	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Sinncelejo	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H02/95	NULL
+EF377620	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Palmar	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F12/01	NULL
+EF377621	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Polo Nuevo	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F03/00	NULL
+EF377622	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Soledad	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C11/01	NULL
+EF377623	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Magdalena	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F08/00	NULL
+EF377624	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Manatí	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F01/00	NULL
+EF377625	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Manatí	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C05/02	NULL
+EF377626	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Viotá	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Equus caballus	17643540	HR1/97	NULL
+EF377627	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Cartagena	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/01	NULL
+EF377628	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	María La Baja	1999	1999	1999	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/99	NULL
+EF377629	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Barranquilla	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C03/01	NULL
+EF377630	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ponedera	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	F10/00	NULL
+EF377631	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Campo de la Cruz	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C06/96	NULL
+EF377632	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Palmar	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F13/01	NULL
+EF377633	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Montería	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H05/97	NULL
+EF377634	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Cereté	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H06/97	NULL
+EF377635	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV5/97	NULL
+EF377636	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Equus caballus	17643540	HR1/96	NULL
+EF377637	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Cañaveral	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H05/95	NULL
+EF377638	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Calamar	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C05/01	NULL
+EF377639	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Polo Nuevo	2002	2002	2002	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C04/02	NULL
+EF377640	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Silvana	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C03/97	NULL
+EF377641	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Puerto Colombia	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C12/01	NULL
+EF377642	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Mahates	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C05/97	NULL
+EF377643	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C14/95	NULL
+EF377644	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Samacá 	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C15/95	NULL
+EF377645	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Capra hircus	17643540	SH1/95	NULL
+EF377646	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C16/95	NULL
+EF377647	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Subachoque	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Equus caballus	17643540	HR1/95	NULL
+EF377648	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ventaquemada	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C18/95	NULL
+EF377649	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV3/96	NULL
+EF377650	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arjona	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C17/95	NULL
+EF377651	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Sus scrofa	17643540	PG1/95	NULL
+EF377652	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Tunja	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV2/95	NULL
+EF377653	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C24/97	NULL
+EF377654	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV3/95	NULL
+EF377655	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Mahates	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV4/97	NULL
+EF377670	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C02/97	NULL
+EF377672	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C04/96	NULL
+EF377673	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chocontá	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV1/95	NULL
+EF377679	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Orito	2000	2000	2000	264	18-Feb-2007	14-Jul-2016	Homo sapiens	17643540	H01/00	NULL
+EF377680	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV1/97	NULL
+EF377681	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1995	1995	1995	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C19/95	NULL
+EF377682	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Saboya	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C05/96	NULL
+EF377683	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C01/96	NULL
+EF377684	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Sopó	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C13/96	NULL
+EF377685	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C30/97	NULL
+EF377687	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C04/97	NULL
+EF377688	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV2/96	NULL
+EF377689	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Ubaté	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C03/96	NULL
+EF377690	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Pijao	1997	1997	1997	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV9/97	NULL
+EF377691	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Canis familiaris	17643540	C08/96	NULL
+EF377692	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Polo Nuevo	2001	2001	2001	264	18-Feb-2007	14-Jul-2016	Vulpes vulpes	17643540	F11/01	NULL
+EF377693	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV1/96	NULL
+EF377694	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Arauca	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Felis catus	17643540	CT2/96	NULL
+EF377695	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	Chiquinquirá	1996	1996	1996	264	18-Feb-2007	14-Jul-2016	Bos taurus	17643540	BV5/96	NULL
+EF675757	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	526	01-Feb-2008	26-Jul-2016	-	-	BRA CVS31.2	NULL
+EU086161	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2004	2004	2004	1353	31-Aug-2008	21-Oct-2008	Canis familiaris	18931062	C01/04	Cosmopolitan AM2a_A1
+EU530698	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	1998	1998	1998	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN7314-98	Cosmopolitan
+EU530699	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	1998	1998	1998	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN7456-98	Cosmopolitan
+EU530700	AL_Cosmopolitan	Cosmopolitan	PER	Peru	J.D.Choquehuanca, Puno	1998	1998	1998	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN8153-98	Cosmopolitan
+EU530701	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	1998	1998	1998	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN8801-98	Cosmopolitan
+EU530702	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juli, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Sus scrofa	-	PERPUN9807-99	Cosmopolitan
+EU530703	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Zepita, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Sus scrofa	-	PERPUN10104-99	Cosmopolitan
+EU530704	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Kelluyo, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Homo sapiens	-	PERPUN221-99	Cosmopolitan
+EU530705	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Yunguyo, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN426-99	Cosmopolitan
+EU530706	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Arapa, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN709-99	Cosmopolitan
+EU530707	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Poccona, Puno	1999	1999	1999	264	05-Apr-2008	26-Jul-2016	Homo sapiens	-	PERPUN1449-99	Cosmopolitan
+EU530708	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Asillo, Puno	2000	2000	2000	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN4384-00	Cosmopolitan
+EU530709	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Azangaro, Puno	2000	2000	2000	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN4387-00	Cosmopolitan
+EU530710	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Orurillo, Puno	2001	2001	2001	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN7012-01	Cosmopolitan
+EU530711	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Yunguyo, Puno	2001	2001	2001	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN7015-01	Cosmopolitan
+EU530712	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Puno, Puno	2001	2001	2001	264	05-Apr-2008	26-Jul-2016	Bos taurus	-	PERPUN22144-01	Cosmopolitan
+EU530713	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Pomata, Puno	2001	2001	2001	264	05-Apr-2008	26-Jul-2016	Bos taurus	-	PERPUN40781-01	Cosmopolitan
+EU530714	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Desaguadero, Puno	2001	2001	2001	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN40787-01	Cosmopolitan
+EU530715	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Pomata, Puno	2002	2002	2002	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN37476-02	Cosmopolitan
+EU530716	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	2002	2002	2002	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN37478-02	Cosmopolitan
+EU530717	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Desaguadero, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	llama	-	PERPUN5020-03	Cosmopolitan
+EU530718	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN37451-03	Cosmopolitan
+EU530719	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Zepita, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN40095-03	Cosmopolitan
+EU530720	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Juliaca, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN40097-03	Cosmopolitan
+EU530721	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Zepita, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN40099-03	Cosmopolitan
+EU530722	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Zepita, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPUN44494-03	Cosmopolitan
+EU530723	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Desaguadero, Puno	2003	2003	2003	264	05-Apr-2008	26-Jul-2016	Felis catus	-	PERPUN48182-03	Cosmopolitan
+EU530725	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	PER	Peru	Madre de Dios	2000	2000	2000	264	05-Apr-2008	26-Jul-2016	Homo sapiens	-	PERMDD3851-00	NULL
+EU530726	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Piura	2002	2002	2002	264	05-Apr-2008	26-Jul-2016	donkey	-	PERPIU28498-02	NULL
+EU530727	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Piura	2002	2002	2002	264	05-Apr-2008	26-Jul-2016	Canis familiaris	-	PERPIU24938-02	NULL
+EU530728	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Piura	2002	2002	2002	264	05-Apr-2008	26-Jul-2016	Capra hircus	-	PERPIU42208-02	NULL
+EU530729	AL_Cosmopolitan	Cosmopolitan	PER	Peru	Piura	2004	2004	2004	264	05-Apr-2008	26-Jul-2016	Vulpes vulpes	-	PERPIU32729-04	NULL
+EU665201	AL_Cosmopolitan_Vac	Cosmopolitan Vac	ARG	Argentina	-	-	-	2008	787	09-Jun-2008	26-Jul-2016	-	-	large	NULL
+EU665202	AL_Cosmopolitan_Vac	Cosmopolitan Vac	ARG	Argentina	-	-	-	2008	584	09-Jun-2008	26-Jul-2016	-	-	short	NULL
+EU918614	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piaui	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	9370PIDG/2005	NULL
+EU918615	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piaui	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	9371PIDG/2005	NULL
+EU918616	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piaui	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	9532PIDG/2005	NULL
+EU918617	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Alagoas	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	9479ALDG/2005	NULL
+EU918618	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8578PADG/2005	NULL
+EU918619	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8581PADG/2005	NULL
+EU918620	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8575PADG/2005	NULL
+EU918621	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8587PADG/2005	NULL
+EU918622	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8589PADG/2005	NULL
+EU918623	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	8590PADG/2005	NULL
+EU918624	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraiba	2003	2003	2003	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	10561PBDG/2003	NULL
+EU918625	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraiba	2003	2003	2003	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	10565PBDG/2003	NULL
+EU918626	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraiba	2003	2003	2003	1889	11-Aug-2008	26-Jul-2016	Felis catus	19185599	10566PBCT/2003	NULL
+EU918627	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Paraiba	2003	2003	2003	1889	11-Aug-2008	26-Jul-2016	Felis catus	19185599	10568PBCT/2003	NULL
+EU918628	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sergipe	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	6049SEDG/2005	NULL
+EU918629	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Sergipe	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Canis familiaris	19185599	6050SEDG/2005	NULL
+EU918630	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	4367PICth/2005	NULL
+EU918631	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piaui	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Pseudalopex vetulus	19185599	4371PIPve/2005	NULL
+EU918632	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	5070PICth/2005	NULL
+EU918633	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piaui	2004	2004	2004	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6129PICth/2004	NULL
+EU918634	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6334PICth/2005	NULL
+EU918635	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Piaui	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6971PICth/2005	NULL
+EU918636	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6973PECth/2005	NULL
+EU918637	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6975PECth/2005	NULL
+EU918638	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2002	2002	2002	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	1406PECth/2002	NULL
+EU918639	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2002	2002	2002	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	1407PECth/2002	NULL
+EU918640	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6967PECth/2005	NULL
+EU918641	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	4102PECth/2005	NULL
+EU918642	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	4103PECt/2005	NULL
+EU918643	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	7579BACth/2005	NULL
+EU918644	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	10563BACth/2003	NULL
+EU918645	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Bahia	2004	2004	2004	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	9339BACth/2004	NULL
+EU918646	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6978PECth/2005	NULL
+EU918647	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6979PECth/2005	NULL
+EU918648	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	2005	2005	2005	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6977PECth/2005	NULL
+EU918649	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Pseudalopex vetulus	19185599	6333PiPve/2005	NULL
+EU918650	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	-	-	2008	1889	11-Aug-2008	26-Jul-2016	Cerdocyon thous	19185599	6335PICth/2005	NULL
+FJ228483	AL_RAC-SK	RAC-SK	MEX	Mexico	Zacatecas	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Spilogale putorius	-	2311Mxzacsk01	NULL
+FJ228484	AL_RAC-SK	RAC-SK	MEX	Mexico	San Luis Potosi	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Spilogale putorius	-	2818Mxslpsk02	NULL
+FJ228485	AL_RAC-SK	RAC-SK	MEX	Mexico	Chihuahua	1999	1999	1999	1350	08-Mar-2009	24-Jul-2016	Bos taurus	-	Mxchihbv1999	RAC-SK_B1.1
+FJ228494	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2007	2007	2007	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	DGCABS2007	Cosmopolitan AM1_A1
+FJ228495	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	2004	2004	2004	1350	08-Mar-2009	24-Jul-2016	mongoose	-	Prmongoose2004	Cosmopolitan AM1_A1
+FJ228496	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	2006	2006	2006	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	2839dgPuertoRico2006	Cosmopolitan AM1_A1
+FJ228497	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	2006	2006	2006	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	2840PuertoRicodg2006	Cosmopolitan AM1_A1
+FJ228498	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2004	2004	2004	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	4355Perudg2004	Cosmopolitan AM2a_A1
+FJ228499	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2004	2004	2004	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	4352Perudg2004	Cosmopolitan AM2a_A1
+FJ228500	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2005	2005	2005	1350	08-Mar-2009	24-Jul-2016	Homo sapiens	-	1475peruhm2005	Cosmopolitan AM2a_A1
+FJ228501	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2004	2004	2004	1350	08-Mar-2009	24-Jul-2016	Vulpes vulpes	-	26200PeruFx2004	Cosmopolitan AM2a_A1
+FJ228502	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	1999	1999	1999	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	1700Mxdfdg99	Cosmopolitan AM2a_A1
+FJ228503	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tlaxcala	2000	2000	2000	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	575Mxtlxdg00	Cosmopolitan AM2a_A1
+FJ228504	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	457Mxpuedg01	Cosmopolitan AM2a_A1
+FJ228505	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tlaxcala	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	67Mxtlxdg02	Cosmopolitan AM2a_A1
+FJ228506	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	1999	1999	1999	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	440Mxgrodg99	Cosmopolitan AM2a_A1
+FJ228507	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	1999	1999	1999	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	1390Mxmxdg99	Cosmopolitan AM2a_A1
+FJ228508	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	1991	1991	1991	1350	08-Mar-2009	24-Jul-2016	Homo sapiens	-	3121Mxdfhm91	Cosmopolitan AM2a_A1
+FJ228509	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	1990	1990	1990	1350	08-Mar-2009	24-Jul-2016	ferret	-	3142Mxdffer90	Cosmopolitan AM2a_A1
+FJ228510	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Distrito Federal	1991	1991	1991	1350	08-Mar-2009	24-Jul-2016	Sus scrofa	-	3134Mxdfpg91	Cosmopolitan AM2a_A1
+FJ228511	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	1994	1994	1994	1350	08-Mar-2009	24-Jul-2016	Bos taurus	-	3143Mxpuebv94	Cosmopolitan AM2a_A1
+FJ228512	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	2509Mxmxdg02	Cosmopolitan AM2a_A1
+FJ228513	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Estado de Mexico	2000	2000	2000	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	1407Mxmxdg00	Cosmopolitan AM2a_A1
+FJ228514	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Michoacan	1991	1991	1991	1350	08-Mar-2009	24-Jul-2016	donkey	-	3138Mxmichdk91	Cosmopolitan AM2a_A1
+FJ228515	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	250Mxgrodg01	Cosmopolitan AM2a_A1
+FJ228516	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Guerrero	2000	2000	2000	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	202Mxgrodg00	Cosmopolitan AM2a_A1
+FJ228517	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	HND	Honduras	-	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	60Honddg01	Cosmopolitan AM2a_A1
+FJ228518	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Chiapas	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	3066Mxchisdg02	Cosmopolitan AM2a_A1
+FJ228519	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Michoacan	1990	1990	1990	1350	08-Mar-2009	24-Jul-2016	Felis catus	-	3122Mxmichct90	Cosmopolitan AM2a_A1
+FJ228521	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Durango	1991	1991	1991	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	3128Mxdgodg91	Cosmopolitan AM2a_A1
+FJ228522	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Chihuahua	1994	1994	1994	1350	08-Mar-2009	24-Jul-2016	Bos taurus	-	3144Mxchihbv94	Cosmopolitan AM2a_A1
+FJ228523	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	1998	1998	1998	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	175Mxyucdg98	Cosmopolitan AM2a_A1
+FJ228524	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	1995	1995	1995	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	10Mxyucdg95	Cosmopolitan AM2a_A1
+FJ228525	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	412Mxyucdg02	Cosmopolitan AM2a_A1
+FJ228526	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Coahuila	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Canis latrans	-	247Mxcoahcy01	Cosmopolitan_A1
+FJ228527	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tamaulipas	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Felis catus	-	3306Mxct02	Cosmopolitan_A1
+FJ228531	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Tlaxcala	1991	1991	1991	1350	08-Mar-2009	24-Jul-2016	Capra hircus	-	3127Mxtlxgt91	Cosmopolitan_A1
+FJ228532	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Puebla	1995	1995	1995	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	3151Puedg95	Cosmopolitan_A1
+FJ228533	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Michoacan	2000	2000	2000	1350	08-Mar-2009	24-Jul-2016	Canis familiaris	-	490Mxmichdg00	Cosmopolitan_A1
+FJ228540	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Sonora	2002	2002	2002	1350	08-Mar-2009	24-Jul-2016	Felis catus	-	3907Mxsonbct	NULL
+FJ228542	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Chihuahua	1994	1994	1994	1350	08-Mar-2009	24-Jul-2016	Felis catus	-	3148Mxchihbct94	NULL
+FJ228543	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2007	2007	2007	1350	08-Mar-2009	24-Jul-2016	Spilogale putorius	-	SKBCSracepilot2007	NULL
+FJ228544	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2001	2001	2001	1350	08-Mar-2009	24-Jul-2016	Spilogale putorius	-	1629Mxbcssk01	NULL
+FJ228545	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Baja California Sur	2000	2000	2000	1350	08-Mar-2009	24-Jul-2016	Spilogale putorius	-	3908Mxslpsk	NULL
+FJ228675	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	SLV	El Salvador	-	2003	2003	2003	264	08-Mar-2009	24-Jul-2016	Homo sapiens	-	3853bSalvHm2003	NULL
+FJ228687	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sonora	2003	2003	2003	264	08-Mar-2009	24-Jul-2016	skunk	-	3886Sonsk2003	NULL
+GU123651	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2003	2003	2003	1305	10-Nov-2009	24-Jul-2016	Felis catus	20401500	10568CT03	NULL
+GU123652	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Canis familiaris	20401500	6050DG05	NULL
+GU123653	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Canis familiaris	20401500	8578DG05	NULL
+GU123654	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Canis familiaris	20401500	8590DG05	NULL
+GU123655	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Canis familiaris	20401500	9370DG05	NULL
+GU123656	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Canis familiaris	20401500	9479DG05	NULL
+GU123657	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2002	2002	2002	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	1407Ct02	NULL
+GU123658	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2003	2003	2003	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	10563Ct03	NULL
+GU123659	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	6967Ct05	NULL
+GU123660	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	6979Ct05	NULL
+GU123661	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2005	2005	2005	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	7579Ct05	NULL
+GU123662	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2008	2008	2008	1305	10-Nov-2009	24-Jul-2016	Cerdocyon thous	20401500	4102Ct08	NULL
+GU646797	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1997	1997	1997	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg04-97	NULL
+GU646798	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg236-96	NULL
+GU646799	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg82-96	NULL
+GU646800	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg268-95	NULL
+GU646801	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg227-95	NULL
+GU646802	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg138-95	NULL
+GU646803	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg76-95	NULL
+GU646804	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg28-95	NULL
+GU646805	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg27-95	NULL
+GU646806	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg449-94	NULL
+GU646807	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg420-94	NULL
+GU646808	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg134-94	NULL
+GU646809	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg133-94	NULL
+GU646810	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg110-94	NULL
+GU646811	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg107-94	NULL
+GU646812	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg63-94	NULL
+GU646813	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg31-94	NULL
+GU646814	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg15-94	NULL
+GU646829	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1997	1997	1997	320	18-Jun-2011	23-Feb-2012	Bos taurus	22033596	brbv289-97	NULL
+GU646830	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Bos taurus	22033596	brbv384-96	NULL
+GU646831	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Bos taurus	22033596	brbv282-96	NULL
+GU646832	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Bos taurus	22033596	brbv197-96	NULL
+GU646833	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	319	18-Jun-2011	23-Feb-2012	Bos taurus	22033596	brbv32-94	NULL
+GU646834	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg07-94	NULL
+GU646835	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1993	1993	1993	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg70-93	NULL
+GU646836	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1993	1993	1993	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg45-93	NULL
+GU646837	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg142-92	NULL
+GU646838	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg138-92	NULL
+GU646839	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg115-92	NULL
+GU646840	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	18-Jun-2011	23-Feb-2012	Canis familiaris	22033596	brdg57-92	NULL
+GU646847	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1998	1998	1998	320	18-Jun-2011	23-Feb-2012	Canis familiaris	-	brdg4111	NULL
+GU646850	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct313-96	NULL
+GU646851	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct56-96	NULL
+GU646852	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1996	1996	1996	320	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct50-96	NULL
+GU646853	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	319	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct35-95	NULL
+GU646854	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1994	1994	1994	320	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct24-94	NULL
+GU646855	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	18-Jun-2011	23-Feb-2012	Felis catus	22033596	brct60-92	NULL
+GU991844	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sinaloa/Durango	2003	2003	2003	1350	28-Apr-2010	25-Jul-2016	Mephitis mephitis (skunk)	-	231mxsinSK03	Cosmopolitan Vac2_A1
+GU991845	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sinaloa/Durango	2005	2005	2005	1350	28-Apr-2010	25-Jul-2016	Mephitis mephitis (skunk)	-	633mxsonsk05	Cosmopolitan Vac2_A1
+GU991846	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Sinaloa/Durango	2001	2001	2001	1350	28-Apr-2010	25-Jul-2016	Mephitis mephitis (skunk)	-	1535mxDGOsk01	Cosmopolitan Vac2_A1
+GU991847	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Oaxaca	2007	2007	2007	1350	28-Apr-2010	25-Jul-2016	Canis familiaris	-	OAXDG07	Cosmopolitan AM2a_A1
+HQ116829	AL_Cosmopolitan	Cosmopolitan	CHL	Chile	-	1973	1973	1973	405	07-Nov-2010	25-Jul-2016	Homo sapiens	20739489	13250	NULL
+HQ450386	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	-	-	2011	11924	04-Jan-2011	12-Sep-2012	Canis familiaris	22966186	DRV-Mexico	Cosmopolitan AM2a_A1
+JF693449	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2007	2007	2007	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	CO2/07	Cosmopolitan AM2a_A1
+JF693450	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2007	2007	2007	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	F02/07	Cosmopolitan AM2a_A1
+JF693451	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2006	2006	2006	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	CO1/06	Cosmopolitan AM2a_A1
+JF693452	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2007	2007	2007	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	H01/07	Cosmopolitan AM2a_A1
+JF693453	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	1995	1995	1995	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	C14/95	Cosmopolitan AM2a_A1
+JF693454	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	1995	1995	1995	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	C20/95	Cosmopolitan AM2a_A1
+JF693455	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2000	2000	2000	1350	31-Mar-2012	31-Mar-2016	Canis lupus familiaris	25405805	H01/00	Cosmopolitan AM2a_A1
+JN106461	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1992	1992	1992	320	12-Oct-2012	25-Jul-2016	Canis familiaris	-	brldg2289-92	NULL
+JN106462	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1989	1989	1989	320	12-Oct-2012	25-Jul-2016	Canis familiaris	-	brldg6963-89	NULL
+JN106463	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1990	1990	1990	320	12-Oct-2012	25-Jul-2016	Canis familiaris	-	brldg8468-90	NULL
+JN897309	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	Teresina/PI	2005	2005	2005	444	10-Mar-2012	01-Aug-2012	Cerdocyon thous	22528640	4372	NULL
+JN897310	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	Recife/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Cerdocyon thous	22528640	1717	NULL
+JN897311	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	Miguel Calmon/BA	2004	2004	2004	444	10-Mar-2012	01-Aug-2012	Cerdocyon thous	22528640	9337	NULL
+JN897312	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Recife/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Cerdocyon thous	22528640	1728	NULL
+JN897313	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Recife/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	1724	NULL
+JN897314	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Parnaiba/PI	2005	2005	2005	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	9369	NULL
+JN897315	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Parnaiba/PI	2005	2005	2005	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	9371	NULL
+JN897316	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Recife/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	1722	NULL
+JN897317	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Panelas/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	4105	NULL
+JN897318	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	Belem de Sao Francisco/PE	2008	2008	2008	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	4106	NULL
+JN897319	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Guajara/SE	2005	2005	2005	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	6050	NULL
+JN897320	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Jacunda/PA	2005	2005	2005	444	10-Mar-2012	01-Aug-2012	Canis familiaris	22528640	8581	NULL
+JQ037818	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2006	2006	2006	794	19-Mar-2012	19-Mar-2012	skunk	-	1369EDOMEXsk06	NULL
+JQ037819	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	647EDOMEXDOG05	NULL
+JQ037820	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	68EDOMEXDOG05	NULL
+JQ037821	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	748EDOMEXDOG05	NULL
+JQ037822	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	885EDOMEXDOG05	NULL
+JQ037823	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	659EDOMEXDOG05	NULL
+JQ037824	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1288	19-Mar-2012	19-Mar-2012	Canis familiaris	-	2293EDOMEXDOG05	NULL
+JQ513528	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1996	1996	1996	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V470	Cosmopolitan AM1_A1
+JQ513529	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	Felis catus	-	V508	Cosmopolitan AM1_A1
+JQ513530	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	Canis familiaris	-	V509	Cosmopolitan AM1_A1
+JQ513531	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	Canis familiaris	-	V510	Cosmopolitan AM1_A1
+JQ513532	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	Canis familiaris	-	V512	Cosmopolitan AM1_A1
+JQ513533	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V514	Cosmopolitan AM1_A1
+JQ513534	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V516	Cosmopolitan AM1_A1
+JQ513535	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V520	Cosmopolitan AM1_A1
+JQ513536	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V522	Cosmopolitan AM1_A1
+JQ513537	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V524	Cosmopolitan AM1_A1
+JQ513538	AL_Cosmopolitan	Cosmopolitan	PRI	Puerto Rico	-	1997	1997	1997	1353	01-Jan-2013	01-Jan-2013	mongoose	-	V525	Cosmopolitan AM1_A1
+JQ513553	AL_RAC-SK	RAC-SK	MEX	Mexico	San Luis Potosi	2002	2002	2002	1353	01-Jan-2013	03-May-2013	skunk	23524137	V854	RAC-SK_B1.1
+JQ685929	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2009	2009	2009	11923	11-Jul-2012	11-Jul-2012	Spilogale putorius	22737076	MEXSK3644	RAC-SK_B1.1
+JQ685954	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2007	2007	2007	11923	11-Jul-2012	11-Jul-2012	Spilogale putorius	22737076	MEXSK13938	RAC-SK_B1.1
+JQ685975	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2009	2009	2009	11925	11-Jul-2012	11-Jul-2012	Spilogale putorius	22737076	MEXSK3636	Vac_A1.2
+JX217779	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bahia	1997	1997	1997	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmBA4093-1997	NULL
+JX217780	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rondonia	1997	1997	1997	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmRO4116-1997	NULL
+JX217781	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Tocantins	1997	1997	1997	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmTO4118-1997	NULL
+JX217782	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Acre	1997	1997	1997	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmAC4119-1997	NULL
+JX217784	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Acre	1997	1997	1997	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmAC4134-1997	NULL
+JX217787	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rondonia	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmRO4107-1998	NULL
+JX217788	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rondonia	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmRO4117-1998	NULL
+JX217789	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Paraiba	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPB4121-1998	NULL
+JX217790	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Tocantins	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmTO4126-1998	NULL
+JX217791	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Rondonia	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmRO4128-1998	NULL
+JX217792	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPE4130-1998	NULL
+JX217793	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Para	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPA4137-1998	NULL
+JX217794	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	Pernambuco	1998	1998	1998	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPE4543-1998	NULL
+JX217795	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goias	1999	1999	1999	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmGO4548-1999	NULL
+JX217797	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Pernambuco	1999	1999	1999	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPE4558-1999	NULL
+JX217799	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Acre	2000	2000	2000	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmAC5308-2000	NULL
+JX217801	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Goias	2000	2000	2000	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmGO5322-2000	NULL
+JX217802	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Acre	2000	2000	2000	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmAC5363-2000	NULL
+JX217803	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Minas Gerais	2000	2000	2000	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmMG5375-2000	NULL
+JX217804	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Piaui	2000	2000	2000	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmPI5376-2000	NULL
+JX217806	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bahia	2001	2001	2001	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmBA5348-2001	NULL
+JX217809	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Minas Gerais	2001	2001	2001	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmMG5704-2001	NULL
+JX217812	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Bahia	2003	2003	2003	320	06-Mar-2013	06-Mar-2013	Homo sapiens	23433340	brhmBA1303-2003	NULL
+KC791795	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2001	2001	2001	1542	18-Jun-2013	18-Jun-2013	skunk	-	A02_3247	NULL
+KC791796	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2001	2001	2001	1540	18-Jun-2013	18-Jun-2013	skunk	-	A02_3248	NULL
+KC791799	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2001	2001	2001	1544	18-Jun-2013	18-Jun-2013	Bos taurus	-	A02_3262	NULL
+KC791809	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2001	2001	2001	1541	18-Jun-2013	18-Jun-2013	skunk	-	A02_4501	NULL
+KC791961	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1572	18-Jun-2013	18-Jun-2013	Canis latrans	-	A11_3426	NULL
+KC792056	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_0579	NULL
+KC792057	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_0580	NULL
+KC792058	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_0581	NULL
+KC792059	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_0582	NULL
+KC792060	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_0587	NULL
+KC792067	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_1023	NULL
+KC792068	AL_Cosmopolitan	Cosmopolitan	DOM	Dominican Republic	-	2012	2012	2012	1572	18-Jun-2013	18-Jun-2013	Canis familiaris	-	A12_1024	NULL
+KC792196	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	-	2001	2001	2001	1572	18-Jun-2013	18-Jun-2013	-	-	45OLD	NULL
+KC792221	AL_RAC-SK	RAC-SK	MEX	Mexico	-	2001	2001	2001	959	18-Jun-2013	18-Jun-2013	skunk	-	MXSK14540	NULL
+KC792258	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Sonora	-	-	2013	1197	18-Jun-2013	18-Jun-2013	Canis familiaris	-	Sonora dog	NULL
+KF831540	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	1985	1985	1985	220	07-Jan-2014	07-Jan-2014	Canis familiaris	-	LIMADOG	NULL
+KF831564	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	1985	1985	1985	543	07-Jan-2014	07-Jan-2014	Canis familiaris	-	LIMADOG	NULL
+KJ001488	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1913dgM05	Cosmopolitan AM2a_A1
+KJ001489	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1306	24-Nov-2015	24-Nov-2015	Canis familiaris	-	3169dgM05	Cosmopolitan AM2a_A1
+KJ001490	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1347	24-Nov-2015	24-Nov-2015	Canis familiaris	-	3173dgM05	Cosmopolitan AM2a_A1
+KJ001491	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1347	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4454dgM05	Cosmopolitan AM2a_A1
+KJ001492	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1347	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4458dgM05	Cosmopolitan AM2a_A1
+KJ001493	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1192	24-Nov-2015	24-Nov-2015	Canis familiaris	-	8086dgM05	NULL
+KJ001494	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1305	24-Nov-2015	24-Nov-2015	Canis familiaris	-	3161dgM05	Cosmopolitan AM2a_A1
+KJ001495	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1261	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4182dgM05	NULL
+KJ001496	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1306	24-Nov-2015	24-Nov-2015	Canis familiaris	-	6663dgPu05	Cosmopolitan AM2a_A1
+KJ001497	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1306	24-Nov-2015	24-Nov-2015	Canis familiaris	-	875dgM06	Cosmopolitan AM2a_A1
+KJ001498	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1304	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4208dgDF06	Cosmopolitan AM2a_A1
+KJ001499	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1347	24-Nov-2015	24-Nov-2015	Canis familiaris	-	5761dgM06	Cosmopolitan AM2a_A1
+KJ001500	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	6929dgM06	Cosmopolitan AM2a_A1
+KJ001501	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1293	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2790dgM06	NULL
+KJ001502	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2782dgM06	Cosmopolitan AM2a_A1
+KJ001503	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2007	2007	2007	1304	24-Nov-2015	24-Nov-2015	Canis familiaris	-	27dgM07	Cosmopolitan AM2a_A1
+KJ001504	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2007	2007	2007	1300	24-Nov-2015	24-Nov-2015	Canis familiaris	-	3853dgM07	Cosmopolitan AM2a_A1
+KJ001505	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	654dgM05	Cosmopolitan AM2a_A1
+KJ001506	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2007	2007	2007	1308	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2399dgPu07	Cosmopolitan AM2a_A1
+KJ001507	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2008	2008	2008	1285	24-Nov-2015	24-Nov-2015	Canis familiaris	-	893dgM08	NULL
+KJ001508	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2008	2008	2008	1315	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4493dgPu08	Cosmopolitan AM2a_A1
+KJ001509	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2009	2009	2009	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1855dgYu09	Cosmopolitan AM2a_A1
+KJ001510	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2009	2009	2009	1346	24-Nov-2015	24-Nov-2015	Canis familiaris	-	7503dgGr09	Cosmopolitan AM2a_A1
+KJ001511	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2010	2010	2010	1298	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2369dgM10	NULL
+KJ001512	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1302	24-Nov-2015	24-Nov-2015	Canis familiaris	-	193dgChs11	Cosmopolitan AM2a_A1
+KJ001513	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1315	24-Nov-2015	24-Nov-2015	Canis familiaris	-	202dgM11	Cosmopolitan AM2a_A1
+KJ001514	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1298	24-Nov-2015	24-Nov-2015	Canis familiaris	-	206dgM11	NULL
+KJ001515	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1348	24-Nov-2015	24-Nov-2015	Canis familiaris	-	69dgHgo11	Cosmopolitan AM2a_A1
+KJ001516	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1393dgM11	Cosmopolitan AM2a_A1
+KJ001517	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1061dgM11	Cosmopolitan AM2a_A1
+KJ001518	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1350	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2342dgM11	Cosmopolitan AM2a_A1
+KJ001519	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2008	2008	2008	1350	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	3363skSo08	Cosmopolitan Vac2_A1
+KJ001520	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2009	2009	2009	1350	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	2433skCh09	Cosmopolitan Vac2_A1
+KJ001521	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2008	2008	2008	1350	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	8322skSo08	Cosmopolitan Vac2_A1
+KJ001522	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2009	2009	2009	1350	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	2393skSi09	Cosmopolitan Vac2_A1
+KJ001523	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2005	2005	2005	1342	24-Nov-2015	24-Nov-2015	Canis familiaris	-	6159dgM05	Cosmopolitan AM2a_A1
+KJ001524	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2010	2010	2010	1339	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1053dgDF10	Cosmopolitan AM2a_A1
+KJ001525	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2009	2009	2009	1342	24-Nov-2015	24-Nov-2015	Canis familiaris	-	1689dgM09	Cosmopolitan AM2a_A1
+KJ001529	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2009	2009	2009	1342	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	889skSin09	Cosmopolitan Vac2_A1
+KJ001530	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2009	2009	2009	1342	24-Nov-2015	24-Nov-2015	Spilogale sp.	-	1566skCh09	Cosmopolitan Vac2_A1
+KJ001531	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2006	2006	2006	1232	24-Nov-2015	24-Nov-2015	Canis familiaris	-	6799dgM06	NULL
+KJ001532	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2007	2007	2007	1251	24-Nov-2015	24-Nov-2015	Canis familiaris	-	8259dgPu07	NULL
+KJ001533	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2008	2008	2008	1295	24-Nov-2015	24-Nov-2015	Canis familiaris	-	5388dgM08	NULL
+KJ001534	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2010	2010	2010	1342	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2679dgM10	Cosmopolitan AM2a_A1
+KJ001535	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2008	2008	2008	1340	24-Nov-2015	24-Nov-2015	Canis familiaris	-	4416dgHg08	Cosmopolitan AM2a_A1
+KJ001536	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2011	2011	2011	1315	24-Nov-2015	24-Nov-2015	Canis familiaris	-	2766dgM11	Cosmopolitan AM2a_A1
+KJ957431	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2847N	Cosmopolitan_A1
+KJ957432	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Capra hircus	25330178	RV2848N	Cosmopolitan_A1
+KJ957433	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2849N	Cosmopolitan_A1
+KJ957434	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Felis catus	25330178	RV2850N	Cosmopolitan_A1
+KJ957435	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2851N	Cosmopolitan_A1
+KJ957436	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2852N	Cosmopolitan_A1
+KJ957437	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2853N	Cosmopolitan_A1
+KJ957438	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2854N	Cosmopolitan_A1
+KJ957439	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2855N	Cosmopolitan_A1
+KJ957440	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2011	2011	2011	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2925N	Cosmopolitan_A1
+KJ957441	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2927N	Cosmopolitan_A1
+KJ957442	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2928N	Cosmopolitan_A1
+KJ957443	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2964N	Cosmopolitan CA2_A1.1.1
+KJ957444	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2965N	Cosmopolitan_A1
+KJ957445	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2966N	Cosmopolitan_A1
+KJ957446	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2967N	Cosmopolitan_A1
+KJ957447	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2968N	Cosmopolitan_A1
+KJ957448	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	Canis familiaris	25330178	RV2969N	Cosmopolitan_A1
+KJ957449	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2970N	Cosmopolitan_A1
+KJ957450	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2971N	Cosmopolitan_A1
+KJ957451	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2972N	Cosmopolitan_A1
+KJ957452	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2013	2013	2013	1353	29-Oct-2014	29-Oct-2014	mongoose	25330178	RV2973N	Cosmopolitan_A1
+KM067274	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	1353	29-Oct-2014	29-Oct-2014	Mongoose	25330178	RV2926	Cosmopolitan_A1
+KM594039	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	11881	18-Nov-2015	14-Apr-2016	Cerdocyon thous	-	IP 7841/09	Cosmopolitan_A1.3.2
+KR781522	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1465dgPI_06	NULL
+KR781523	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2251dgPI_06	Cosmopolitan AM3b_A1
+KR781524	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP3630dgPI_11	NULL
+KR781525	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP3629dgPI_11	NULL
+KR781526	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7847dgPE_09	Cosmopolitan AM3b_A1
+KR781527	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP9765dgPE_06	NULL
+KR781528	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1726dgPE_08	NULL
+KR781529	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1722dgPE_08	NULL
+KR781530	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1724dgPE_08	NULL
+KR781531	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7854dgPE_09	NULL
+KR781532	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7855dgPE_09	Cosmopolitan AM3b_A1
+KR781533	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7841dgPE_09	NULL
+KR781534	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7842dgPE_09	NULL
+KR781535	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP5049dgPE_10	Cosmopolitan AM3b_A1
+KR781536	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP6915dgBA_06	NULL
+KR781538	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP4044dgMA_06	NULL
+KR781539	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2159dgMA_07	Cosmopolitan AM3a_C1
+KR781540	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2162dgMA_07	NULL
+KR781541	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2163dgMA_07	NULL
+KR781542	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2165dgMA_07	NULL
+KR781543	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2168dgMA_07	NULL
+KR781544	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2169dgMA_07	NULL
+KR781545	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP2170dgMA_07	NULL
+KR781546	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1888dgMA_12	Cosmopolitan AM3a_C1
+KR781547	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1890dgMA_12	NULL
+KR781548	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1891dgMA_12	NULL
+KR781549	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1893dgMA_12	Cosmopolitan AM3a_C1
+KR781550	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1894dgMA_12	NULL
+KR781551	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1895dgMA_12	NULL
+KR781552	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1896dgMA_12	NULL
+KR781553	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2012	2012	2012	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1897dgMA_12	NULL
+KR781554	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1016dgPB_09	Cosmopolitan AM3a_A1
+KR781555	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP7777dgRN_07	Cosmopolitan AM3b_A1.2.1
+KR781556	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP5635dgRN_09	NULL
+KR781557	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP8045dgRN_09	NULL
+KR781558	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1943dgRN_10	NULL
+KR781559	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1712dgRO_07	NULL
+KR781560	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1714dgRO_07	NULL
+KR781561	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1715dgRO_07	Cosmopolitan AM3a_A1.3
+KR781562	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1716dgRO_07	NULL
+KR781563	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1724dgRO_07	Cosmopolitan AM3a_A1.3
+KR781564	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1725dgRO_07	NULL
+KR781565	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1718dgAM_07	Cosmopolitan AM3a_A1.3
+KR781566	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1713dgPA_07	NULL
+KR781567	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1719dgPA_07	Cosmopolitan AM3a_A1.2
+KR781568	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP5494dgPA_07	NULL
+KR781569	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Canis familiaris	-	IP1720dgAC_07	NULL
+KR781570	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP2249CthPI_06	Cosmopolitan AM3b_A1
+KR781571	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3578CthPI_06	NULL
+KR781572	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9755CthPE_06	NULL
+KR781573	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9757CthPE_06	NULL
+KR781574	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9758CthPE_06	Cosmopolitan AM3b_A1
+KR781575	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9759CthPE_06	NULL
+KR781576	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9763CthPE_06	Cosmopolitan AM3b_A1
+KR781577	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9764CthPE_06	Cosmopolitan AM3b_A1.1
+KR781578	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9767CthPE_06	Cosmopolitan AM3b_A1.2
+KR781579	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP9754CthPE_06	NULL
+KR781580	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP1719CthPE_08	NULL
+KR781581	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP1723CthPE_08	Cosmopolitan AM3b_A1
+KR781582	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7837CthPE_09	Cosmopolitan AM3b_A1
+KR781583	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7840CthPE_09	NULL
+KR781584	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7843CthPE_09	Cosmopolitan AM3b_A1.2
+KR781585	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7845CthPE_09	Cosmopolitan AM3b_A1.1.1
+KR781586	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7852CthPE_09	Cosmopolitan AM3b_A1
+KR781587	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7853CthPE_09	Cosmopolitan AM3b_A1
+KR781588	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5054CthPE_10	Cosmopolitan AM3b_A1
+KR781589	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5050CthPE_10	NULL
+KR781590	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5055CthPE_10	Cosmopolitan AM3b_A1
+KR781591	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3327CthBA_07	Cosmopolitan AM3b_A1
+KR781592	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5667CthBA_07	NULL
+KR781593	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP8832CthRN_06	Cosmopolitan AM3b_A1.2.1
+KR781594	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2006	2006	2006	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP8833CthRN_06	Cosmopolitan AM3b_A1.2.1
+KR781595	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7779CthRN_07	Cosmopolitan AM3b_A1.2.1
+KR781596	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2007	2007	2007	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP7781CthRN_07	NULL
+KR781597	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3747CthRN_08	Cosmopolitan AM3b_A1.2.1
+KR781598	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP8044CthRN_09	NULL
+KR781599	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5634CthRN_09	Cosmopolitan AM3b_A1.2.1
+KR781600	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3453CthRN_10	NULL
+KR781601	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2011	2011	2011	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3208CthRN_11	Cosmopolitan AM3b_A1.2.1
+KR781602	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP6618CthCE_08	NULL
+KR781603	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2008	2008	2008	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP1721CthPE_08	NULL
+KR781604	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP1014CthSE_09	NULL
+KR781605	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	2009	2009	2009	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5636CthPB_09	NULL
+KR781606	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP3450CthPB_10	Cosmopolitan AM3b_A1.2.1
+KR781607	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2010	2010	2010	1367	28-Oct-2016	28-Oct-2016	Cerdocyon thous	-	IP5051CthPB_10	Cosmopolitan AM3b_A1
+KR902345	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Queretaro	2012	2012	2012	501	13-Jul-2015	13-Jul-2015	Canis familiaris	-	T12-0022/30786	NULL
+KT006769	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	2013	2013	2013	11922	08-Sep-2015	06-Sep-2017	Canis familiaris	-	3944	Cosmopolitan AM2a_A1
+KU312285	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	2015	2015	2015	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	1	NULL
+KU312286	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	2014	2014	2014	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	27	NULL
+KU312287	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	9	NULL
+KU312288	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	13	NULL
+KU312289	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	14	NULL
+KU312290	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	20	NULL
+KU312291	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	77	NULL
+KU312292	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	83	NULL
+KU312293	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	84	NULL
+KU312294	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	90	NULL
+KU312295	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	93	NULL
+KU312296	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	500	NULL
+KU312297	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	-	1996	1996	1996	320	05-Jul-2016	05-Jul-2016	Canis lupus familiaris	-	6302	NULL
+KU550103	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	CRI	Costa Rica	-	2014	2014	2014	1430	23-Mar-2016	10-May-2016	Homo sapiens	26982168	LSE0453-14	Cosmopolitan AM2a_A1
+KU888643	AL_Asian_SEA1b	Asian SEA1b	CHL	Chile	-	1998	1998	1998	1575	30-Mar-2016	30-Mar-2016	Canis familiaris	26992832	9811CHI	NULL
+KU938752	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2011	2011	2011	1350	03-Oct-2016	03-Oct-2016	Desmodus rotundus	27621441	201101787@2011Puno	Cosmopolitan AM2a_A1
+KU938829	AL_Cosmopolitan	Cosmopolitan	PER	Peru	-	2012	2012	2012	1350	03-Oct-2016	03-Oct-2016	Desmodus rotundus	27621441	201203037@2012Puno	Cosmopolitan_A1
+KU938904	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	PER	Peru	-	1999	1999	1999	1350	03-Oct-2016	03-Oct-2016	Desmodus rotundus	27621441	676@1999MadreDeDios	NULL
+KX148102	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	1991	1991	1991	11922	28-Nov-2016	28-Nov-2016	Canis familiaris	-	91026MEX	Cosmopolitan AM2a_A1
+KX148110	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	1991	1991	1991	11802	28-Nov-2016	28-Nov-2016	Canis familiaris	-	91014MEX	Cosmopolitan AM2a_A1
+KX148111	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	1991	1991	1991	11802	28-Nov-2016	28-Nov-2016	Canis familiaris	-	91015MEX	Cosmopolitan AM2a_A1
+KX148112	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	-	1991	1991	1991	11802	28-Nov-2016	28-Nov-2016	Homo sapiens	-	91010MEX	Cosmopolitan AM2a_A1
+KX148214	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	11803	28-Nov-2016	28-Nov-2016	Canis familiaris	-	95023BRE	Cosmopolitan_A1.3.2
+KX148215	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1995	1995	1995	11803	28-Nov-2016	28-Nov-2016	Canis familiaris	-	95022BRE	Cosmopolitan_A1.3.2
+KX148216	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1986	1986	1986	11802	28-Nov-2016	28-Nov-2016	Canis familiaris	-	86001BRE	Cosmopolitan_A1.3.2
+KX148217	AL_Cosmopolitan_AM3b	Cosmopolitan AM3b	BRA	Brazil	-	1986	1986	1986	11804	28-Nov-2016	28-Nov-2016	Canis familiaris	-	86123BRE	Cosmopolitan_A1.3.2
+KX708499	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	2015	2015	2015	11794	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	2041MxYucgod15	Cosmopolitan_A1.3
+KX708500	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	2014	2014	2014	11794	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	3106MxYucdog14	Cosmopolitan_A1.3
+KX708501	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Yucatan	2013	2013	2013	11794	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	2187MxYucdog13	Cosmopolitan_A1.3
+KX708502	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Chiapas	2012	2012	2012	11793	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	5559MxChisdog12	Cosmopolitan AM2a_A1
+KX708503	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Chiapas	2014	2014	2014	11793	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	2835MxChisdog14	Cosmopolitan AM2a_A1
+KX708504	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	MEX	Mexico	Yucatan	2008	2008	2008	11798	22-Aug-2017	22-Aug-2017	Canis familiaris	28819692	9084MxYucdog08	Cosmopolitan AM2a_A1
+MG458319	AL_Cosmopolitan	Cosmopolitan	GRD	Grenada	-	2012	2012	2012	11925	31-Jan-2018	31-Jan-2018	mongoose	29357361	RV2854	Cosmopolitan_A1
+MK887203	AL_Cosmopolitan_Vac	Cosmopolitan Vac	MEX	Mexico	GTO/PUE	2016	2016	2016	483	27-Nov-2019	27-Nov-2019	Desmodus rotundus	-	A	NULL
+MK887204	AL_Cosmopolitan_Vac	Cosmopolitan Vac	MEX	Mexico	Puebla	2017	2017	2017	483	27-Nov-2019	27-Nov-2019	Desmodus rotundus	-	B	NULL
+MK887205	AL_Cosmopolitan_Vac	Cosmopolitan Vac	MEX	Mexico	Puebla	2017	2017	2017	483	27-Nov-2019	27-Nov-2019	Desmodus rotundus	-	C	NULL
+MK887206	AL_Cosmopolitan_Vac	Cosmopolitan Vac	MEX	Mexico	Puebla	2017	2017	2017	483	27-Nov-2019	27-Nov-2019	Desmodus rotundus	-	D	NULL
+MK956097	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2015	2015	2015	1350	21-Dec-2019	21-Dec-2019	Canis lupus familiaris	-	1015BRACMG2015	Cosmopolitan_A1
+MK956098	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2015	2015	2015	1350	21-Dec-2019	21-Dec-2019	Canis lupus familiaris	-	1131BRACMG2015	Cosmopolitan AM2a_A1
+MK956099	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2015	2015	2015	1350	21-Dec-2019	21-Dec-2019	Canis lupus familiaris	-	1200BRACMG2015	Cosmopolitan AM2a_A1
+MK956100	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2015	2015	2015	1350	21-Dec-2019	21-Dec-2019	Canis lupus familiaris	-	1372BRACMG2015	Cosmopolitan AM2a_A1
+MK956101	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2015	2015	2015	1350	21-Dec-2019	21-Dec-2019	Canis lupus familiaris	-	1407BRACMG2015	Cosmopolitan AM2a_A1
+MN549362	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	-	2006	2006	2006	429	05-Feb-2020	05-Feb-2020	Bos taurus	-	2780bovineCoa06	NULL
+MT872379	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2013	2013	2013	264	03-Nov-2022	03-Nov-2022	Canis familiaris	-	C01_13	NULL
+MT872383	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2015	2015	2015	264	03-Nov-2022	03-Nov-2022	Vulpes vulpes	-	F01_15	NULL
+MT872390	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2017	2017	2017	264	03-Nov-2022	03-Nov-2022	Sus scrofa	-	PG01_17_ICA	NULL
+MT872391	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2017	2017	2017	264	03-Nov-2022	03-Nov-2022	Canis familiaris	-	C01_17	NULL
+MT872392	AL_Cosmopolitan	Cosmopolitan	COL	Colombia	-	2019	2019	2019	264	03-Nov-2022	03-Nov-2022	Vulpes vulpes	-	F01_19	NULL
+MT872395	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	COL	Colombia	-	2020	2020	2020	263	03-Nov-2022	03-Nov-2022	Canis familiaris	-	C01_20	NULL
+MW055107	AL_Cosmopolitan_AM2a	Cosmopolitan AM2a	GTM	Guatemala	Totonicapan	2018	2018	2018	1353	22-Nov-2020	22-Nov-2020	Canis familiaris	33158200	No.12+	NULL
+MW055129	AL_Cosmopolitan	Cosmopolitan	HTI	Haiti	-	2018	2018	2018	1353	22-Nov-2020	22-Nov-2020	Canis familiaris	33158200	A18-0735	NULL
+MW055130	AL_Cosmopolitan	Cosmopolitan	HTI	Haiti	-	2018	2018	2018	1353	22-Nov-2020	22-Nov-2020	Canis familiaris	33158200	A18-0740	NULL
+MW123052	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	1986	1986	1986	133	25-Sep-2021	25-Sep-2021	Canis familiaris	33542337	86001BRE	NULL
+MW302193	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	2018	2018	2018	586	15-Jan-2021	15-Jan-2021	Canis lupus familiaris	33375530	588_2018	NULL
+MW302194	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	2018	2018	2018	586	15-Jan-2021	15-Jan-2021	Canis lupus familiaris	33375530	848_2018	NULL
+MW302195	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	-	2019	2019	2019	586	15-Jan-2021	15-Jan-2021	Canis lupus familiaris	33375530	1183_2019	NULL
+MW302202	AL_MASTER	Rabies Virus (RABV)	ARG	Argentina	-	2018	2018	2018	586	15-Jan-2021	15-Jan-2021	Myotis sp.	33375530	442_2018	NULL
+MW302203	AL_MASTER	Rabies Virus (RABV)	ARG	Argentina	-	2018	2018	2018	586	15-Jan-2021	15-Jan-2021	Myotis sp.	33375530	662_2018	NULL
+MW302204	AL_MASTER	Rabies Virus (RABV)	ARG	Argentina	-	2020	2020	2020	586	15-Jan-2021	15-Jan-2021	Myotis sp.	33375530	029_2020	NULL
+OK247527	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Caborca, Sonora	2014	2014	2014	764	08-Mar-2022	08-Mar-2022	Equus caballus	-	798MxEquineSon14	Cosmopolitan
+OK247528	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Caborca, Sonora	2014	2014	2014	764	08-Mar-2022	08-Mar-2022	puma	-	251MxPumaSon14	Cosmopolitan
+OK247529	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Hermosillo, Sonora	2002	2002	2002	764	08-Mar-2022	08-Mar-2022	puma	-	1811MxPumaSon02	Cosmopolitan
+OK247530	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Rayon, Sonora	2008	2008	2008	764	08-Mar-2022	08-Mar-2022	puma	-	3044MxPumaSon08	Cosmopolitan
+OK247531	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Chinipas, Chihuahua	2018	2018	2018	764	08-Mar-2022	08-Mar-2022	puma	-	1690MxPumaChih18	Cosmopolitan
+OK247532	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Alamos, Sonora	2013	2013	2013	764	08-Mar-2022	08-Mar-2022	skunk	-	1765MxSkunkSon13	Cosmopolitan
+OK247533	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Ures, Sonora	2013	2013	2013	764	08-Mar-2022	08-Mar-2022	Felis catus	-	2483MxBobcatSon13	Cosmopolitan
+OK247534	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Caborca, Sonora	2019	2019	2019	764	08-Mar-2022	08-Mar-2022	Vulpes vulpes	-	1763MxFoxSon19	Cosmopolitan
+OK247535	AL_Cosmopolitan_AM2b	Cosmopolitan AM2b	MEX	Mexico	Guachochi, Chihuahua	2001	2001	2001	749	08-Mar-2022	08-Mar-2022	puma	-	4141MxPumaChih01	Cosmopolitan
+OK247536	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	Arizpe, Sonora	2012	2012	2012	737	08-Mar-2022	08-Mar-2022	puma	-	5924MxPumaSon12	Cosmopolitan
+OK564514	AL_Cosmopolitan_Vac2	Cosmopolitan Vac2	MEX	Mexico	-	2021	2021	2021	11925	11-Oct-2022	11-Oct-2022	Equus caballus	-	CPA-06882-21	NULL
+OL451878	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Tucuman	1995	1995	1995	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA35	NULL
+OL451879	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Tucuman	1996	1996	1996	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA38	NULL
+OL451880	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Tucuman	1996	1996	1996	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA39	NULL
+OL451881	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2000	2000	2000	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA53	NULL
+OL451882	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2000	2000	2000	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA71	NULL
+OL451883	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2001	2001	2001	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA112	NULL
+OL451884	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2001	2001	2001	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA120	NULL
+OL451885	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2004	2004	2004	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	AA474	NULL
+OL451886	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2007	2007	2007	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA774	NULL
+OL451887	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2008	2008	2008	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	AA886	NULL
+OL451888	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2008	2008	2008	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA888	NULL
+OL451889	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2008	2008	2008	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA911	NULL
+OL451890	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2009	2009	2009	1353	12-Jan-2022	12-Jan-2022	Nasua nasua	34960753	AA929	NULL
+OL451891	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2009	2009	2009	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA957	NULL
+OL451892	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2009	2009	2009	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA959	NULL
+OL451893	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2009	2009	2009	1353	12-Jan-2022	12-Jan-2022	Nasua nasua	34960753	AA966	NULL
+OL451894	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2012	2012	2012	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB124	NULL
+OL451895	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB160	NULL
+OL451896	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	AB193	NULL
+OL451897	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB353	NULL
+OL451898	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	AB356	NULL
+OL451899	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB357	NULL
+OL451900	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1353	12-Jan-2022	12-Jan-2022	Nasua nasua	34960753	AB361	NULL
+OL451901	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2013	2013	2013	1347	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB362	NULL
+OL451902	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2015	2015	2015	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB118	NULL
+OL451903	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2015	2015	2015	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AB122	NULL
+OL451904	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2016	2016	2016	1329	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	739	NULL
+OL451905	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2017	2017	2017	1346	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	682	NULL
+OL451906	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2008	2008	2008	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	A874	NULL
+OL451907	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	Itapua	1992	1992	1992	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	369	NULL
+OL451908	AL_Cosmopolitan	Cosmopolitan	PRY	Paraguay	Itapua	1991	1991	1991	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	352	NULL
+OL451909	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2002	2002	2002	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	A166	NULL
+OL451910	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	1997	1997	1997	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	552	NULL
+OL451911	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2006	2006	2006	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	A696	NULL
+OL451912	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2001	2001	2001	1353	12-Jan-2022	12-Jan-2022	Cerdocyon thous	34960753	A119	NULL
+OL451913	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Chaco	2002	2002	2002	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA148	NULL
+OL451914	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Formosa	2007	2007	2007	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA881	NULL
+OL451915	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	Mato Grosso do Sul	1989	1989	1989	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	257	NULL
+OL451916	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	PRY	Paraguay	Itapua	1991	1991	1991	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	353	NULL
+OL451917	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2000	2000	2000	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA21	NULL
+OL451918	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	1999	1999	1999	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA42	NULL
+OL451919	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	1999	1999	1999	1353	12-Jan-2022	12-Jan-2022	Felis catus	34960753	AA47	NULL
+OL451920	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	1999	1999	1999	1353	12-Jan-2022	12-Jan-2022	Felis catus	34960753	AA50	NULL
+OL451921	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2002	2002	2002	1352	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA126	NULL
+OL451922	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2002	2002	2002	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA178	NULL
+OL451923	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2002	2002	2002	1353	12-Jan-2022	12-Jan-2022	monkey	34960753	AA180	NULL
+OL451924	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2002	2002	2002	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	AA183	NULL
+OL451925	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Salta	2015	2015	2015	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M297	NULL
+OL451926	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2015	2015	2015	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M632	NULL
+OL451927	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2006	2006	2006	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M639	NULL
+OL451928	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2005	2005	2005	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M654	NULL
+OL451929	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2003	2003	2003	1353	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M863	NULL
+OL451930	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2003	2003	2003	1350	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M870	NULL
+OL451931	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2006	2006	2006	1348	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M876	NULL
+OL451932	AL_Cosmopolitan	Cosmopolitan	ARG	Argentina	Jujuy	2003	2003	2003	1350	12-Jan-2022	12-Jan-2022	Canis lupus familiaris	34960753	M1009	NULL
+OM971003	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Sinanche, Yucatan	2015	2015	2015	11794	16-Jan-2023	16-Jan-2023	Nasua narica	-	1442MxCoatiYuc15	Cosmopolitan
+OM971004	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Tekax, Yucatan	2017	2017	2017	11794	16-Jan-2023	16-Jan-2023	Nasua narica	-	1443MxCoatiYuc17	Cosmopolitan
+OM971005	AL_Cosmopolitan	Cosmopolitan	MEX	Mexico	Hablekal, Yucatan	2020	2020	2020	11794	16-Jan-2023	16-Jan-2023	Nasua narica	-	25MxCoatiYuc20	Cosmopolitan
+OP762206	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P1	NULL
+OP762207	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P2	NULL
+OP762208	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P3	NULL
+OP762209	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P4	NULL
+OP762210	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P5	NULL
+OP762211	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P6	NULL
+OP762212	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P7	NULL
+OP762213	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P8	NULL
+OP762214	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P9	NULL
+OP762215	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P10	NULL
+OP762216	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P1_Ab	NULL
+OP762217	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P2_Ab	NULL
+OP762218	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P3_Ab	NULL
+OP762219	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P4_Ab	NULL
+OP762220	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P5_Ab	NULL
+OP762221	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P6_Ab	NULL
+OP762222	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P7_Ab	NULL
+OP762223	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P8_Ab	NULL
+OP762224	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P9_Ab	NULL
+OP762225	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1575	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P10_Ab	NULL
+OP762276	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P1	NULL
+OP762277	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P2	NULL
+OP762278	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P3	NULL
+OP762279	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P4	NULL
+OP762280	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P5	NULL
+OP762281	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P6	NULL
+OP762282	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P7	NULL
+OP762283	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P8	NULL
+OP762284	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P9	NULL
+OP762285	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P10	NULL
+OP762286	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P1_Ab	NULL
+OP762287	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P2_Ab	NULL
+OP762288	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P3_Ab	NULL
+OP762289	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P4_Ab	NULL
+OP762290	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P5_Ab	NULL
+OP762291	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P6_Ab	NULL
+OP762292	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P7_Ab	NULL
+OP762293	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P8_Ab	NULL
+OP762294	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P9_Ab	NULL
+OP762295	AL_Cosmopolitan_AM3a	Cosmopolitan AM3a	BRA	Brazil	-	2011	2011	2011	1221	27-Mar-2023	27-Mar-2023	Canis lupus familiaris	36558890	IP3629/11_P10_Ab	NULL
+OQ543189	AL_MASTER	Rabies Virus (RABV)	BRA	Brazil	Trairi-CE	2022	2022	2022	177	28-Aug-2023	28-Aug-2023	Artibeus lituratus	37605969	LACEN-UNIFESP S-93	NULL
+PP536644	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_1P	NULL
+PP536645	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_2P	NULL
+PP536646	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_3P	NULL
+PP536647	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_4P	NULL
+PP536648	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_5P	NULL
+PP536649	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_6P	NULL
+PP536650	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_7P	NULL
+PP536651	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_8P	NULL
+PP536652	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	714	01-Apr-2024	01-Apr-2024	mice	-	SNC_Camundongos_N_9P	NULL
+PP536653	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_1P	NULL
+PP536654	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_2P	NULL
+PP536655	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_3P	NULL
+PP536656	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_4P	NULL
+PP536657	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_5P	NULL
+PP536658	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_6P	NULL
+PP536659	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_7P	NULL
+PP536660	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	MDCK_N_8P	NULL
+PP536661	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_1P	NULL
+PP536662	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_2P	NULL
+PP536663	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_3P	NULL
+PP536664	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_4P	NULL
+PP536665	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_5P	NULL
+PP536666	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_6P	NULL
+PP536667	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_7P	NULL
+PP536668	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_8P	NULL
+PP536669	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	mice	-	BHK21_N_9P	NULL
+PP536670	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	714	01-Apr-2024	01-Apr-2024	-	-	BHK21_N_10P	NULL
+PP583675	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_1P	NULL
+PP583676	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_2P	NULL
+PP583677	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_4P	NULL
+PP583678	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_5P	NULL
+PP583679	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_6P	NULL
+PP583680	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_7P	NULL
+PP583681	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_8P	NULL
+PP583682	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_9P	NULL
+PP583683	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2014	2014	2014	891	15-Apr-2024	15-Apr-2024	mice	-	SNC_Camundongos_P_10P	NULL
+PP583684	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_1P	NULL
+PP583685	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_2P	NULL
+PP583686	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_3P	NULL
+PP583687	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_4P	NULL
+PP583688	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_5P	NULL
+PP583689	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_6P	NULL
+PP583690	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_7P	NULL
+PP583691	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_8P	NULL
+PP583692	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_9P	NULL
+PP583693	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	BHK_P_10P	NULL
+PP583694	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_1P	NULL
+PP583695	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_2P	NULL
+PP583696	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_3P	NULL
+PP583697	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_4P	NULL
+PP583698	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_5P	NULL
+PP583699	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_6P	NULL
+PP583700	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_7P	NULL
+PP583701	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_8P	NULL
+PP583702	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_9P	NULL
+PP583703	AL_Cosmopolitan	Cosmopolitan	BRA	Brazil	-	2022	2022	2022	891	15-Apr-2024	15-Apr-2024	-	-	MDCK_P_10P	NULL

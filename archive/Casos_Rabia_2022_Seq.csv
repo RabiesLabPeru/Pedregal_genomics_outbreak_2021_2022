@@ -1,0 +1,52 @@
+type;ident;lat;long;y_proj;x_proj;comment;display;symbol;unused1;dist;prox_index;color;altitude;depth;temp;time;wpt_class;sub_class;attrib;link;state;country;city;address;facility;crossroad;unused2;ete;dtype;model;filename;ltime;Sequenced
+WAYPOINT;Caso001;-16.454283;-71.529205;-1947666.678;2838405.079;Simon Bolivar 112 Lara Tradicional - SOCABAYA; ; ; ; ; ; ;2327.0999; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso002;-16.52539;-71.47725;-1956678.511;2843358.952;Villa Real Sector 4 Mz. L Lt. 9 Peregrinos de Chapi - QUEQUENHA; ; ; ; ; ; ;2507.5; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso003;-16.525165;-71.47534;-1956676.38;2843578.376;Av. Los Emprendedores Mz. H Lt. 4 Asoc. Agroindustrial Peregrinos de chapi - QUEQUEÑA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso004;-16.34353264;-71.62084623;-1933508.574;2829458.783;APIPA sector 14 Mz. D Lt. 16 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso005;-16.498693;-71.495669;-1953308.127;2841623.165;Asociacion San Isidro Zona C Mz. NH. 1 Lt. 5 Machahuaya - MOLLEBAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso006;-16.45801721;-71.55428413;-1947788.503;2835513.787;UPIS Paisajista Estadio Paisajista - HUNTER; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso007;-16.46286521;-71.55672352;-1948327.063;2835173.92;UPIS Paisajista Av. Paisajista Mz. W Lt. 18 - HUNTER; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso008;-16.32674759;-71.55510136;-1932360.282;2837131.72;Benigno Ballon Farfan Mz. K Lt. 6 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso009;-16.4932849;-71.4963267;-1952664.466;2841619.757;Asociacion San Isidro Mz. NH Lt. 9 Zona A - MOLLEBAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso010(-);-16.35215678;-71.5595749;-1935288.717;2836294.311;Victor Andres Belaunde Comite 6 Mz. H Lt. 16 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso010;-16.49196629;-71.5132039;-1952295.543;2839724.323;Asociacion Vivienda huerto del Eden Mz C - MOLLEBAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso011;-16.46547723;-71.55034827;-1948714.325;2835862.21;La mansion de socabaya Mz E LTe: 16 - SOCABAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso012;-16.494169;-71.516222;-1952516.027;2839353.352;Cooperativa Virgen de Chapi Mz. H Lt. 2 -  MOLLEBAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso013;-16.477589;-71.487187;-1950936.468;2842862.1;Av. Cementerio Mz. A Lt. 2 (Via publica; frente al cementerio) - CHARACATO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso014;-16.33964061;-71.60647222;-1933231.285;2831138.862;JLByR Sector 5 Mz. 8 D Lt. 17 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso015;-16.28942697;-71.64023135;-1926913.982;2827959.727;Las Perlas de Yura Zona 2 Mz. X Lt. 01 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso016;-16.32219682;-71.64546117;-1930696.261;2826943.995;UTUPARA Zona G - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso017;-16.45532977;-71.57648403;-1947192.876;2833033.17;Calla baja s/Nero tingo grande - HUNTER; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso018;-16.30126146;-71.63946264;-1928313.059;2827894.289;Bella vista de Yura Zona 5 Mz. E  Lt. 15 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso019;-16.30329;-71.525222;-1929979.239;2840825.907;Pioneros Zona A Mz. D&apos;;;;;;;;;;;;;;;;;;;;;;;;;;;No
+WAYPOINT;Caso020;-16.448238;-71.554181;-1946641.303;2835653.361;Av. San Miguel N° 205 - HUNTER; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso021;-16.361657;-71.599971;-1935897.974;2831590.538;Local social; Asociacion de empresarios Gran poder  - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso022;-16.3693242;-71.5756432;-1937103.376;2834249.154;Asociacion peruautos Mz. A Lt. 3 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso023;-16.3190701;-71.55859401;-1931414.701;2836835.189;Asociacion Pedro P. Diaz Mz. 20 Lt. 7 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso024;-16.47372171;-71.45930038;-1950836.048;2846074.403;Centro poblado Yanayaco Calle Rinconada s/n Yanayaco - CHARACATO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso025;-16.40953385;-71.52192478;-1942502.118;2839815.849;(Referencial) Urbanizacion Aurora Mz. C Lt. 15 - CERCADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso026;-16.30991608;-71.63576355;-1929375.308;2828202.041;Asoc. La Perla escondida de yura  Mz. E Lt.-17 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso027;-16.29444999;-71.62153061;-1927736.746;2830015.649;Km 16 Ampliacion Comite 7 Mz. Y Lt. 3 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso028;-16.335434;-72.19504;-1925500.818;2764567.601;Trabajadores de la municipalidad Mz. M Lt. 10 - PEDREGAL; ; ; ; ; ; ;1454.8772; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso029;-16.32114809;-71.64913741;-1930527.31;2826540.757;UTUPARA Zona E Mz. NH Lt. 17 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso030;-16.479248;-71.49214885;-1951068.44;2842277.844;Asociacion Gustavo Mohome LLosa Mz.H Lt. 4 Sector 4 - CHARACATO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso031;-16.352273;-71.597638;-1934825.24;2831976.768;Peruarbo sector III Mz. M1 Lt. 10 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso032(-);-16.36325084;-71.62041598;-1935829.166;2829252.151;Asociacion Virgen de Copacabana Mz. K Lt. 17 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso032;-16.293265;-71.633637;-1927446.741;2828658.033;El milagro Mz. A Lt. 25 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso033;-16.38584532;-71.62225084;-1938459.038;2828751.163;(Referencial) Alto Cural Lateral 6 Lote 919 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso034;-16.37918904;-71.62308263;-1937667.114;2828743.241;Estrella del Cural Zona A Mz. W Lt. 03 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso035;-16.474685;-71.476934;-1950725.362;2844062.576;Calle Moquegua N 86-A La Huaylla - CHARACATO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso036;-16.31640089;-72.28140942;-1922232.797;2755045.763;Centro poblado de la C2  Mz. J Lt. 11 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso037;-16.35727078;-71.51359142;-1936467.329;2841443.039;Villa Esperanza El Huarangal Mz. E Lt.34 - ALTO SELVA ALEGRE; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso038;-16.309604;-71.526781;-1930701.487;2840567.021;Embajada de Japón Zona A Mz. D Lt. 20 - CAYMA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso039;-16.29678417;-71.62273157;-1927995.861;2829849.323;Asoc. Ciudad de Dios Sector A Zona 3 Mz. O Lt. 12 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso040;-16.30781362;-71.52201586;-1930550.922;2841130.925;Embajada de Japon Zona B Mz. Z3 Lt. 7 - CAYMA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso041;-16.43802527;-71.5624437;-1945337.708;2834850.338;Caminos del Inca Mz. C Lt. 5 - HUNTER; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso042;-16.29166258;-71.52036547;-1928674.041;2841527.926;Los Jazmines Zona B Mz. M Lt. 13 - CAYMA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso043;-16.335154;-71.62139;-1932517.985;2829505.568;Apipa Sector 12 Mz. L1 Lt. 14 - CERRO COLORADO; ; ; ; ; ; ;2495; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso044;-16.42235222;-71.62437869;-1942718.459;2828035.838;El cural Lateral 3 Lote 203 - TIABAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso045;-16.3014406;-71.61857102;-1928594.516;2830261.022;Km. 15 Comite 23 Mz. A Lt. 7 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso046;-16.31029763;-71.63414614;-1929440.27;2828380.508;El Altiplano Km. 16 Zona Industrial - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso047;-16.29180212;-71.62938638;-1927327.928;2829158.931;Upis Los Milagros Zona 2 Mz. E2 Lt. 2 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso048;-16.31591941;-71.54777353;-1931180.186;2838103.478;Rio Seco Via de Evitamiento km 5.5 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso049;-16.29718509;-71.61911751;-1928087.999;2830254;Comite 15 Ciudad de Dios Sector A Km. 16 - YURA; ; ; ; ; ; ;2683.2; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No

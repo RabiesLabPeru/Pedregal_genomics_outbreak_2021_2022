@@ -1,0 +1,77 @@
+type;ident;lat;long;y_proj;x_proj;comment;display;symbol;unused1;dist;prox_index;color;altitude;depth;temp;time;wpt_class;sub_class;attrib;link;state;country;city;address;facility;crossroad;unused2;ete;dtype;model;filename;ltime;Sequenced
+WAYPOINT;Caso001;-16.313217;-71.605359;-1930142.302;2831607.105;Camineros Emplados km 12.5 Mz. H Lt. 14 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso002;-16.32379559;-71.5517891;-1932055.049;2837545.742;Amazonas Mz. J Lt. 17 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso003;-16.32483122;-71.58066998;-1931814.943;2834256.636;UPIS Salvador Zona B Mz. G Lt. 10 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso004;-16.34979926;-71.58495258;-1934693.625;2833447.187;Av. Industrial Mz. H Lt. 25 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso005;-16.32534858;-71.58031542;-1931880.143;2834290.141;UPIS El Salvador Mz. H Lt. 01 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso006;-16.30992862;-71.61436841;-1929643.661;2830627.94;Ciudad de Dios Km. 13 Comité 14 Zona 1 Mz. H Lt. 8 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso007;-16.30894284;-71.65079812;-1929073.703;2826509.952;Km. 16 Autodromo Sector 62 Mz. D Lt. 3 - YURA; ; ; ; ; ; ;2572.6367; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso008;-16.31541743;-71.5972254;-1930502.326;2832501.028;Granjeros unidos Mz. F Lt. 3 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso009;-16.32718482;-71.59678559;-1931889.736;2832398.561;Eduardo de la pinela Mz. L Lt. 22 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso010;-16.32655667;-71.53825512;-1932549.123;2839045.085;1 de Junio Zona B Mz. E5 Lt. 5 - CAYMA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso011;-16.307125;-71.627144;-1929155.066;2829215.448;Asoc. Pro Viv. El Altiplano Mz. D Lt. 25 - YURA; ; ; ; ; ; ;2659.9456; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso012;-16.32985356;-71.56874178;-1932554.172;2835544.317;Asoc. Las Flores Zona 2 Mz. E  Lt. 2 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso013;-16.293974;-71.6234;-1927657.551;2829809.791;Km. 16 Ciudad de Dios Zona 4 Comité 7 Mz. A Lt. 18 - YURA; ; ; ; ; ; ;2742.7253; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso014;-16.32003749;-72.17833375;-1923900.608;2766648.587;Ciudad Majes Modulo E Zona 2 Mz. H5 Lt. 9 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso015;-16.31982398;-71.55359419;-1931565.899;2837392.539;Pedro P. Díaz Mz. 11 Lt. 01 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso016;-16.3277413;-72.18033884;-1924778.134;2766325.484;Ciudad Majes Módulo B Mz. C7 Lt. 10 - PEDREGAL; ; ; ; ; ; ;1520.6184; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso017;-16.311133;-71.63340684;-1929547.572;2828453.55;PROFAM Etapa1 Mz. C Lt. 06 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso018;-16.36436253;-71.63603084;-1935764.387;2827467.785;Las Lomas Grupo 32 Mz. 135 Lt. 17 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso019;-16.307302;-72.17536;-1922445.756;2767144.136;Nuevo Horizonte El Bosque Mz. 30 Lt. 11 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso020;-16.310675;-72.180824;-1922774.576;2766484.258;Ciudad Majes Modulo E Sector 1 - PEDREGAL; ; ; ; ; ; ;1554.3401; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso021;-16.333763;-72.17603;-1925535.123;2766737.076;La Colina Parcela N° 56 - PEDREGAL; ; ; ; ; ; ;1518.0281; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso022;-16.323315;-71.596666;-1931436.778;2832462.234;Ciudad Municipal Zona II (Torrentera) - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso023;-16.346814;-71.609045;-1934041.44;2830754.232;JLByR Sector IX Mz. 14H Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso024;-16.3124546;-71.60477884;-1930060.018;2831682.758;Asociación Camineros Empleados Mz. K Lt. 14 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso025;-16.40455944;-71.54163853;-1941669.304;2837645.649;Av. Luna Pizarro 206 - CERCADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso026;-16.3476505;-71.62840791;-1933897.561;2828548.235;APIPA Mz. J2 Lt. 11 Sector 15 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso027;-16.3110911;-71.5563999;-1930504.947;2837187.566;Asoc. Viv. Agroindustrial La Fortaleza Chachani Mz. B Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso028;-16.337232;-71.602216;-1933001.682;2831652.655;JLByR Entre Sector V y VI (Torrentera) - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso029;-16.30828596;-72.17553218;-1922558.857;2767112.36;Nuevo Horizonte El Bosque Mz. 22 Lt. 04 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso030;-16.35736;-71.62527;-1935076.79;2828778.236;Asoc. Las Lomas Grupo 01 Mz. 53 Lt. 02 - CERRO COLORADO; ; ; ; ; ; ;2355.6; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso031;-16.32355472;-71.56522805;-1931858.357;2836024.548;Asoc. de Viviennda Las Torres Mz. D Lt. 1 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso032;-16.31336532;-71.54642208;-1930897.096;2838289.932;Villa Cerrillos Zona C Mz. G Lt. 17 - CERRO COLORADO; ; ; ; ; ; ;2769.1; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso033;-16.35977612;-71.59908423;-1935688.214;2831715.476;Asociacion Gran Poder Mz. G Lt. 19 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso034;-16.328681;-71.594948;-1932088.422;2832587.563;Villa Aviacion - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso035;-16.32494862;-72.18179114;-1924433.681;2766196.299;Ciudad Majes Modulo B Mz. D5 Lt. 7  Sector 1 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso036;-16.310565;-71.545681;-1930577.426;2838410.341;Villa Cerrillos (Torrentera) - CERRO COLORADO; ; ; ; ; ; ;2771.27; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso037;-16.40759873;-71.49081942;-1942667.461;2843368.383;Calle 8 de Octubre 208 Zona A Miguel Grau - PAUCARPATA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso038;-16.340483;-71.61423;-1933233.195;2830248.374;JLByR Sector VII Mz. K Lt. 7 - CERRO COLORADO; ; ; ; ; ; ;2452.2; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso039;-16.34938162;-71.57863465;-1934723.748;2834169.007;Rio Seco Pasaje Cuzco Mz. B Lt. 01 Comite 08 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso040;-16.33742;-71.61298;-1932889.159;2830429.755;APIPA Sector X Mz. A6 Lt. 18 - CERRO COLORADO; ; ; ; ; ; ;2514.7004; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso041;-16.3489947;-72.20092481;-1927016.822;2763732.775;Los molles Parcela 253 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso042;-16.31464471;-71.54805501;-1931026.922;2838088.089;Villa Cerrillos Mz. O Lt. 14 - CERRO COLORADO; ; ; ; ; ; ;2792.0974; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso043;-16.31955016;-71.55127417;-1931562.809;2837659.258;José María Arguedas Mz. I Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;2723; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso044;-16.33422596;-71.6040233;-1932626.081;2831486.664;JLByR Sector V Mz. 4I Lt. 16 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso045;-16.32176;-71.57271;-1931553.869;2835199.222;Villa Magisterial Zona 3 Mz. H Lt. 7 - CERRO COLORADO; ; ; ; ; ; ;2641.4; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso046;-16.307991;-71.610512;-1929464.268;2831090.308;Hijos de Ciudad de Dios Mz. D Lt. 17 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso047;-16.348377;-71.61857;-1934105.839;2829654.114;JLByR Sector VIII Mz. 8E Lt. 2 - CERRO COLORADO; ; ; ; ; ; ;2416.2; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso048;-16.38321775;-72.19833388;-1931053.503;2763596.467;Pedregal Sur II Etapa Mz. H2 Lt. 15 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso049;-16.31916435;-72.17306338;-1923862.122;2767255.276;La Granja El Paraíso Mz. D LT. 23 - PEDREGAL; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;Yes
+WAYPOINT;Caso050;-16.32518878;-71.5852458;-1931799.674;2833733.063;Mercado Mayorista Zona B Mz. CH Lt. 2 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso051;-16.33745613;-71.58676872;-1933221.308;2833401.354;Villa San Juan Sector I Mz. S Lt. 12 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso052;-16.351549;-71.59349;-1934792.164;2832456.463;Parque Industrial Río Seco al frente de la Mz. C Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso053;-16.337994;-71.590055;-1933243.336;2833021.73;Nueva Arequipa Mz. B Lt. 13 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso054;-16.35390894;-71.61501465;-1934799.855;2829985.516;JLByR Sector XII Mz. X Lt. 10 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso055;-16.34999197;-71.59703995;-1934564.865;2832074.157;PERUARBO Sector PERU Zona III Mz. I Lt. 14 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso056;-16.331032;-71.551744;-1932905.637;2837456.9;Jardines del Bosques de Gethzemani s/n Vía 5 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso057;-16.379186;-71.62304828;-1937667.187;2828747.173;Asoc. Estrella del Cural Zona A Mz. W Lt. 3 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso058;-16.327731;-71.59299857;-1932001.242;2832820.933;Ciudad Municipal Zona 1 Mz. B Lt. 5 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso059;-16.3129;-71.542597;-1930890.375;2838729.898;Jardines de chachani Mz. H Lt. 10 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso060;-16.430472;-71.53625;-1944780.897;2837918.073;Av. Salaverry 103 B - SOCABAYA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso061;-16.37899606;-71.57377891;-1938262.662;2834334.765;Jr. Dos de Mayo 604-A - CERRO COLORADO; ; ; ; ; ; ;2443.5818; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso062;-16.320768;-71.560579;-1931589.271;2836588.011;Flora Tristan Mz.A Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso063;-16.368786;-71.655797;-1936036.677;2825170.273;AMIFIV Grupo 2 Mz. R Lt. 5 - YURA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso064;-16.355541;-71.597252;-1935213.836;2831978.145;Urb. Gran poder Mz. C Lt. 2 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso065;-16.384773;-71.548805;-1939255.014;2837091.117;Urbanización Los Arces - CAYMA; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso066;-16.39928;-71.491962;-1941675.638;2843347.667;Rodríguez Ballón 337 - MARIANO MELGAR; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso067;-16.372964;-71.630933;-1936837.992;2827934.166;Asoc. San Pedro y San Pablo MZ. M Lt. 01 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso068;-16.372964;-71.630933;-1936837.992;2827934.166;Asoc. San Pedro y San Pablo MZ. M - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso069;-16.402013;-71.57139;-1940995.808;2834305.991;Variante Uchumayo - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso070;-16.327144;-71.5840058;-1932044.818;2833848.351;Mercado Mayorista Mz K lt 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso071;-16.372005;-71.62291;-1936825.798;2828855.969;El Sillar Mz. W Lt. 12 - CERRO COLORADO; ; ; ; ; ; ;2328.1; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso072;-16.34625;-71.6087401;-1933979.027;2830796.108;JLByR Sector IX - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso074;-16.32416;-71.6053559;-1931427.383;2831465.876;APIPA sector 2 Mz. F Lt. 9 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Punto del caso sospechoso;-16.37378944;-71.55388319;-1937901.074;2836658.353;Urb. El Rosario I Mz. A lt. 01 - Cerro Colorado; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Punto inicial caso 54;-16.35079051;-71.61383906;-1934448.397;2830159.195;JLByR Sector X Mz. X Lt. 10 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
+WAYPOINT;Caso073;-16.377584;-71.6176287;-1937546.962;2829382.239;Gran Poder Sector 4 - CERRO COLORADO; ; ; ; ; ; ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;No
