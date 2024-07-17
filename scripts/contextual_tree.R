@@ -84,7 +84,12 @@ leg <- as.ggplot(ggpubr::get_legend(tree_plot), position="top")+
         legend.margin = margin(0, 0, 0, 0),
         legend.spacing.x = unit(0, "mm"),
         legend.spacing.y = unit(0, "mm"))
-tree_plot2=tree_plot+theme(legend.position="none")
+tree_plot2=tree_plot+theme(legend.position="none")+
+   geom_text(aes(x=0.24,y= 1450), label="I", fontface="italic")+
+  geom_text(aes(x=0.27,y= 1450), label="II", fontface="italic"); tree_plot2
+  
+  
+  
 #%>%  scaleClade(node=mrca, scale=2)
 
 ######################
@@ -156,40 +161,40 @@ colScale1+
 
 
 
-zoom2=zoom_peru2+
-  layout_rectangular()+
-  geom_treescale(col="grey")+
-  geom_nodepoint(color="grey21", shape=18, alpha=1, size=3 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.9))+
-  geom_fruit(
-    geom=geom_star,
-    mapping=aes(fill=sequence.m49_country.display_name,  starshape=Study),
-    position="identity",colour="black",
-    starstroke=0.2, size=2.5
-  )+
-  colScale1+
-  #  scale_fill_manual(name = "",
-  # labels =  c('Other', 'This study'),
-  # values=country_cols, na.translate=FALSE) +   
-  scale_starshape_manual(values=c(13,1), na.translate=FALSE)+
-  guides(starshape = FALSE,fill=FALSE)+
-  guides(fill=FALSE)+
-  new_scale_fill()+
-  geom_fruit(geom=geom_tile, mapping=aes(fill=alignment.displayName), width=0.008)+theme(legend.text=element_text(size=10))+
-  colScale2+ theme(legend.position='bottom') +guides(fill=FALSE)+
-  new_scale_fill()+
-  geom_fruit(
-    geom=geom_col,
-    mapping=aes(x=sequence.gb_length, fill=sequence.m49_country.display_name),
-    pwidth=0.6,
-    offset = 0.1,
-    axis.params=list(
-      axis="x", # add axis text of the layer.
-      text.angle=-45,
-      text.size=2,# the text angle of x-axis.
-      vjust=1, hjust=0 ,nbreak=10 # adjust the horizontal position of text of axis.
-    )
-  )+  
-  colScale1+
-  guides(fill =FALSE);zoom2
+# zoom2=zoom_peru2+
+#   layout_rectangular()+
+#   geom_treescale(col="grey")+
+#   geom_nodepoint(color="grey21", shape=18, alpha=1, size=3 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.9))+
+#   geom_fruit(
+#     geom=geom_star,
+#     mapping=aes(fill=sequence.m49_country.display_name,  starshape=Study),
+#     position="identity",colour="black",
+#     starstroke=0.2, size=2.5
+#   )+
+#   colScale1+
+#   #  scale_fill_manual(name = "",
+#   # labels =  c('Other', 'This study'),
+#   # values=country_cols, na.translate=FALSE) +   
+#   scale_starshape_manual(values=c(13,1), na.translate=FALSE)+
+#   guides(starshape = FALSE,fill=FALSE)+
+#   guides(fill=FALSE)+
+#   new_scale_fill()+
+#   geom_fruit(geom=geom_tile, mapping=aes(fill=alignment.displayName), width=0.008)+theme(legend.text=element_text(size=10))+
+#   colScale2+ theme(legend.position='bottom') +guides(fill=FALSE)+
+#   new_scale_fill()+
+#   geom_fruit(
+#     geom=geom_col,
+#     mapping=aes(x=sequence.gb_length, fill=sequence.m49_country.display_name),
+#     pwidth=0.6,
+#     offset = 0.1,
+#     axis.params=list(
+#       axis="x", # add axis text of the layer.
+#       text.angle=-45,
+#       text.size=2,# the text angle of x-axis.
+#       vjust=1, hjust=0 ,nbreak=10 # adjust the horizontal position of text of axis.
+#     )
+#   )+  
+#   colScale1+
+#   guides(fill =FALSE);zoom2
 
   
