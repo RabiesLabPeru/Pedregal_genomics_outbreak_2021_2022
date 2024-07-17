@@ -6,6 +6,7 @@ source("scripts/Pedregal sequences map.R")
 
 ## put together components of figure 3
 (peru_inlac|cases)+ plot_annotation(tag_levels = 'A')
+#cases+inset_element(peru_inlac, left=0, bottom=0.7, right=0.4, top=1.5,align_to = "panel")
 
 
 tiff("figures/fig1.tif", units = "in", width=11.69, height=9, res= 300, compression = "lzw")
