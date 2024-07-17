@@ -35,17 +35,17 @@ puno_point <- st_centroid(puno)
            panel.background = element_rect(fill="aliceblue"),
            panel.grid.major = element_blank(),  # Remove major gridlines
            panel.grid.minor = element_blank())+ 
-    geom_sf(data=peru_only, fill="brown3", col="black") +
+    geom_sf(data=peru_only, fill="navajowhite", col="black") +
     geom_sf(data=bordering, fill="lightgrey", col="black", linetype="dashed") +
-    geom_sf_text(data = bordering %>% filter(admin != "Chile"), aes(label = admin), size = 4, nudge_x=1) +
-    geom_sf_text(data = chile, aes(label = admin), size = 4, nudge_x = 0.5, nudge_y = 30) +
+    geom_sf_text(data = bordering %>% filter(admin != "Chile"), aes(label = admin), size = 4, nudge_x=1)+
+    geom_sf_text(data = chile, aes(label = admin), size = 4, nudge_x = -0.5, nudge_y = 28) +
     geom_sf_text(data = peru_only,aes(label=admin), fontface="bold",size=6)+
     #geom_sf(data = puno, fill = "white",size=0.1, linetype="dashed")+
    # geom_sf(data = aq2, fill = "white",size=0.1)+ 
    #geom_sf(data = arequipa_point, color = "black", size = 2)+
-   geom_label_repel(data = pedregal_point,aes(label="Arequipa", geometry=geometry), stat = "sf_coordinates", nudge_x=14, nudge_y=-7)+
-   geom_label_repel(data = puno_point,aes(label="Puno", geometry=geometry), stat = "sf_coordinates", nudge_x=4.5, nudge_y=6)+
-    geom_label_repel(data = pedregal_point,aes(label="El Pedregal", geometry=geometry), stat = "sf_coordinates", nudge_x=-10, nudge_y=-4); peru_inlac
+   geom_label_repel(data = pedregal_point,aes(label="Arequipa", geometry=geometry), stat = "sf_coordinates", nudge_x=16, nudge_y=-5.2)+
+   geom_label_repel(data = puno_point,aes(label="Puno", geometry=geometry), stat = "sf_coordinates", nudge_x=9, nudge_y=8)+
+    geom_label_repel(data = pedregal_point,aes(label="El Pedregal", geometry=geometry), stat = "sf_coordinates", nudge_x=-13, nudge_y=-4); peru_inlac
 
  
  

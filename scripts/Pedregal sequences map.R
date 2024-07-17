@@ -84,13 +84,13 @@
 # join blocks data
   PEDMAN<-rbind(PEDURB,PED)
   PEDMAN$zone<-as.factor(PEDMAN$zone)
-
+  
   
 # Figure
   cases=ggplot() + 
   geom_sf(data = PEDMAN, color = "white",size=0.1,aes(fill=zone) )+ 
     scale_fill_manual("Type of zone",
-                      values = c("#fddbc7","#d1e5f0"),
+                      values = c("#fddbc7","steelblue1"),
                       breaks = c("Rural","Urban"),
                       labels = c("Agricultural lots","City blocks")) +
     guides(fill = guide_legend(order = 1))+
@@ -113,15 +113,15 @@
     scale_color_manual("Sequenced", values = c("#f21f1f","#0f0000"))+
     new_scale_fill()+
      # geom_sf_text(data = CASOSPED, aes(label = Cases_ID), size = 4, color = "black", check_overlap = F, fontface="bold") +
-    annotation_scale(location = "br", height = unit(0.4, "cm"),
+    annotation_scale(location = "bl", height = unit(0.4, "cm"),
                      pad_x = unit(1, "cm"),pad_y = unit(0.8, "cm")) +
-    annotation_north_arrow(location = "br", which_north = "true", 
+    annotation_north_arrow(location = "bl", which_north = "true", 
                            style = north_arrow_fancy_orienteering,
                            height = unit(1.4, "cm"),
                            width = unit(1.4, "cm"),
-                           pad_x = unit(1.60, "cm"), pad_y = unit(2.00, "cm"))+
-    coord_sf(xlim = c(-72.11, -72.33), ylim = c(-16.25, -16.465), expand = FALSE); cases
+                           pad_x = unit(1.60, "cm"), pad_y = unit(1.5, "cm"))+
+    coord_sf(xlim = c(-72.155, -72.297), ylim = c(-16.28, -16.37), expand = FALSE); cases
 
     
-
+ # coord_sf(xlim = c(-72.11, -72.33), ylim = c(-16.25, -16.465), expand = FALSE)
 
