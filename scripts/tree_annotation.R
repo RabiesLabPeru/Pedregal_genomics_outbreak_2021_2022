@@ -39,19 +39,20 @@ rooted.meta=all_seq.annot[all_seq.annot$seq_id %in% rooted$tip.label,]
 rooted.meta$display=gsub("_a.*|_meta.*","",rooted.meta$seq_id)
 readdate=as.Date(rooted.meta$sample_collection_date, "%d-%b-%y")
 rooted.meta$decimal_date=decimal_date(readdate)
+rooted.meta$display=gsub("_illumina","",rooted.meta$display)
 #write.csv(rooted.meta,"processed/trees/deduped.csv", row.names=F)
 
-rooted$edge.length=rooted$edge.length*11923
+#rooted$edge.length=rooted$edge.length*11923
 # foundation tree plot:  aesthetics, ladderize
 gplot <- ggtree(rooted, ladderize = TRUE, size=0.7,col="darkgray") %<+% rooted.meta
 gplot
 
 
 final=gplot+
-  #geom_tiplab(aes(label=display), size=2.5)+
+  geom_tiplab(aes(label=display), size=4, hjust=-0.2)+
 #  geom_label2(aes(label=label, subset = !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
   geom_nodepoint(color="darkgray", shape=18, alpha=1, size=3 , aes(subset=as.numeric(label) >0.8))+
-  geom_treescale(x=90, y=4, label="~SNPs",offset.label=-1, offset=1)+
+  geom_treescale(label="",offset.label=-1, offset=1)+
 geom_tippoint(mapping=aes(col=outbreak_place, shape=outbreak_place, size=outbreak_place))+
   scale_color_manual(name="Location",values=wes_palette("FantasticFox1", 3, type = "discrete"),
                     labels =sort(unique(rooted.meta$outbreak_place)))+
@@ -60,7 +61,7 @@ geom_tippoint(mapping=aes(col=outbreak_place, shape=outbreak_place, size=outbrea
   scale_size_manual(name="Location",values=c(3,5,3),
                      labels =sort(unique(rooted.meta$outbreak_place)))+
   geom_tiplab(aes(label=case), size=4, hjust=1, fontface="bold")+
-  geom_tiplab(aes(label=year), size=4, hjust=-0.3)+
+  #geom_tiplab(aes(label=year), size=4, hjust=-0.3)+
   # geom_fruit(geom=geom_tile, mapping=aes(fill=as.factor(year)), width=5, offset=0.2)+
   # scale_fill_manual(name = "Year",values=brewer.bupu(10),labels =sort(unique(rooted.meta$year)),na.translate=FALSE)+
   # theme(legend.position = "bottomright")+guides(fill=guide_legend(nrow=2,title.position="top"))+

@@ -10,6 +10,7 @@ plot=(tree_plot2/zoom1)|(plot_lac/leg)
 plot+ plot_annotation(tag_levels = 'A')
 
 
+
 tiff("figures/fig2.tif", units = "in", width=11.69, height=8.27, res= 300, compression = "lzw")
 plot+ plot_annotation(tag_levels = 'A')
 dev.off()

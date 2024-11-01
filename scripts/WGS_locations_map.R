@@ -31,11 +31,11 @@ st_crs(aqp_extent_polygon ) <- st_crs(points_sf)
 world <- ne_countries(returnclass = "sf") 
 peru=world[world$admin=="Peru"|world$admin=="Bolivia",]
 
-department=read_sf("/Users/kirstyn.brunker/Library/CloudStorage/OneDrive-UniversityofGlasgow/General - RAGE/Peru/Peru Shapefiles/DEPARTAMENTOS_inei_geogpsperu_suyopomalia/DEPARTAMENTOS_inei_geogpsperu_suyopomalia.shp")
+department=read_sf("raw_data/shapefiles/DEPARTAMENTOS_inei_geogpsperu_suyopomalia")
 
-district=read_sf("/Users/kirstyn.brunker/Library/CloudStorage/OneDrive-UniversityofGlasgow/General - RAGE/Peru/Peru Shapefiles/DISTRITOS_inei_geogpsperu_suyopomalia/DISTRITOS_inei_geogpsperu_suyopomalia.shp")
+district=read_sf("raw_data/shapefiles/DISTRITOS_inei_geogpsperu_suyopomalia")
 
-province=read_sf("/Users/kirstyn.brunker/Library/CloudStorage/OneDrive-UniversityofGlasgow/General - RAGE/Peru/Peru Shapefiles/PROVINCIAS_inei_geogpsperu_suyopomalia/PROVINCIAS_inei_geogpsperu_suyopomalia.shp")
+province=read_sf("raw_data/shapefiles/PROVINCIAS_inei_geogpsperu_suyopomalia")
 
 # subset to puno region, arequipa province and majes district
 puno <- department %>% filter(NOMBDEP == "PUNO")
