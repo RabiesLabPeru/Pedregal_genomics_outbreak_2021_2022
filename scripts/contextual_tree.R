@@ -125,7 +125,7 @@ zoom_peru2 <- ggtree(subset_tree2,ladderize = TRUE, size=0.5, col="darkgrey") %<
 zoom1=zoom_peru+
   layout_rectangular()+
   geom_treescale(fontsize=6)+
- # geom_tiplab(aes(label=display), size=4, hjust=-0.1)+
+  geom_tiplab(aes(label=display), size=4, hjust=-0.1)+
   geom_nodepoint(color="grey", shape=18, alpha=1, size=3 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
   # geom_fruit(
   #   geom=geom_star,
@@ -167,7 +167,7 @@ colScale1+
   theme(plot.margin = unit(c(1, 1, 1.5, 1), "lines"))+ # top, right, bottom, left)
   guides(fill =F);zoom1
 
-
+73_2021
 
 # zoom2=zoom_peru2+
 #   layout_rectangular()+
