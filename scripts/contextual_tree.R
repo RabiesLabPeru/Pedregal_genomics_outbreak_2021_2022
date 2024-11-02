@@ -37,9 +37,11 @@ mrca=MRCA(root_tree, annot$sequence.sequenceID[annot$Study=="This study"])
 #viewClade(tree_plot, mrca)
 mrca2=1433 # for all peruvian seq in that section of tree
 
-# highlight the romblon cases 
+# highlight the study cases 
 tree_plot=
   gplot+
+  ## added bootstraps >0.8 on internal nodes
+  geom_nodepoint(color="grey21", shape=18, alpha=1, size=2 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
 #geom_tippoint(aes(subset=(Study %in% "This study")),col="grey", pch=21, fill="black")
   #theme_tree2()+
   #geom_treescale(x=0, y=700, width=20, color='black', label="SNPs",linesize=1, offset=2)+
@@ -52,7 +54,7 @@ tree_plot=
       mapping=aes(subset=(Study %in% "This study"),fill=Study,  starshape=Study),
       fill=country_cols[names(country_cols)=="Peru"],
       position="identity",colour="black",
-      starstroke=0.1, size=1
+      starstroke=0.1, size=1, hjust=-0.1
     )+
     guides(starshape = guide_legend(order=1, title="",override.aes = list(size = 5)))+
 geom_fruit(geom=geom_tile, mapping=aes(fill=alignment.displayName), width=0.02)+theme(legend.text=element_text(size=10))+
