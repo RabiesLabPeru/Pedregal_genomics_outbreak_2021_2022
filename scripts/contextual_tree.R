@@ -29,6 +29,11 @@ source("scripts/fix_gluemeta_for_phylo.R")
 root_tree=root(tree, "KF154998.1")
 root_tree=drop.tip(root_tree, "KF154998.1")
 #which(!root_tree$tip.label %in% annot$sequence.sequenceID)
+## edit display names
+annot$display=gsub("_illumina","",annot$sequence.sequenceID)
+annot$display=gsub("_meta.*","",annot$display)
+annot$display=gsub("_aqp.*","",annot$display)
+
 gplot <- ggtree(root_tree,ladderize = TRUE, size=0.2, col="darkgrey") %<+% annot
 
 ##Peru relevant mrcas
@@ -41,14 +46,14 @@ mrca2=1433 # for all peruvian seq in that section of tree
 tree_plot=
   gplot+
   ## added bootstraps >0.8 on internal nodes
-  geom_nodepoint(color="grey21", shape=18, alpha=1, size=2 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
+  geom_nodepoint(color="grey", shape=18, alpha=1, size=2 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
 #geom_tippoint(aes(subset=(Study %in% "This study")),col="grey", pch=21, fill="black")
   #theme_tree2()+
   #geom_treescale(x=0, y=700, width=20, color='black', label="SNPs",linesize=1, offset=2)+
  # labs(caption="Number of substitutions")+
   layout_rectangular()+
   geom_hilight(node=mrca)+
-     geom_treescale(col="grey")+
+     geom_treescale(fontsize=6)+
     geom_fruit(
       geom=geom_star,
       mapping=aes(subset=(Study %in% "This study"),fill=Study,  starshape=Study),
@@ -58,7 +63,7 @@ tree_plot=
     )+
     guides(starshape = guide_legend(order=1, title="",override.aes = list(size = 5)))+
 geom_fruit(geom=geom_tile, mapping=aes(fill=alignment.displayName), width=0.02)+theme(legend.text=element_text(size=10))+
-    colScale2+ theme(legend.position='bottom') + guides(fill = guide_legend(ncol = 3, order=2, title.position ="top"))+
+    colScale2+ theme(legend.position='bottom') + guides(fill = guide_legend(ncol = 2, order=2, title.position ="top", title="Phylogenetic clade"))+
   new_scale_fill()+
     # geom_fruit(geom=geom_tile, mapping=aes(fill=sequence.m49_country.display_name), width=0.05, offset = 0.15)+
     # colScale1+ guides(fill = guide_legend(ncol = 3))+
@@ -70,16 +75,16 @@ geom_fruit(geom=geom_tile, mapping=aes(fill=alignment.displayName), width=0.02)+
       axis.params=list(
         axis="x", # add axis text of the layer.
         text.angle=-45,
-        text.size=2,# the text angle of x-axis.
-        vjust=1, hjust=0 ,nbreak=10 # adjust the horizontal position of text of axis.
+        text.size=3,# the text angle of x-axis.
+        vjust=1, hjust=0 ,nbreak=5 # adjust the horizontal position of text of axis.
       )
     )+   colScale1+ 
-  theme(legend.position="top", legend.box = "vertical",legend.margin = margin(0, 0, 0, 0)) + 
+  theme(legend.position="bottom", legend.box = "vertical",legend.margin = margin(0, 0, 0, 0)) + 
   theme(plot.margin = unit(c(1, 1, 1, 1), "lines"))+
   theme(legend.key.size = unit(0.4, "cm"))+
   geom_cladelabel(node=mrca2, label="Cosmo:Am5", 
-                  color="black")+
-  guides(fill = guide_legend(ncol = 3, order=3, title.position ="top")); tree_plot
+                  color="black", fontsize=6)+
+  guides(fill = guide_legend(ncol = 2, order=3, title.position ="top", title="Country")); tree_plot
 
 leg <- as.ggplot(ggpubr::get_legend(tree_plot), position="top")+
   theme(legend.title=element_blank(),
@@ -87,8 +92,8 @@ leg <- as.ggplot(ggpubr::get_legend(tree_plot), position="top")+
         legend.spacing.x = unit(0, "mm"),
         legend.spacing.y = unit(0, "mm"))
 tree_plot2=tree_plot+theme(legend.position="none")+
-   geom_text(aes(x=0.24,y= 1450), label="I", fontface="italic")+
-  geom_text(aes(x=0.27,y= 1450), label="II", fontface="italic"); tree_plot2
+   geom_text(aes(x=0.24,y= 1450), label="Clade", size=5)+
+  geom_text(aes(x=0.34,y= 1450), label="Country & Length", size=5); tree_plot2
   
   
   
@@ -119,8 +124,9 @@ zoom_peru2 <- ggtree(subset_tree2,ladderize = TRUE, size=0.5, col="darkgrey") %<
 
 zoom1=zoom_peru+
   layout_rectangular()+
-  geom_treescale(col="grey")+
-  geom_nodepoint(color="grey21", shape=18, alpha=1, size=2 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
+  geom_treescale(fontsize=6)+
+ # geom_tiplab(aes(label=display), size=4, hjust=-0.1)+
+  geom_nodepoint(color="grey", shape=18, alpha=1, size=3 , aes(subset= !is.na(as.numeric(label)) & as.numeric(label) > 0.8))+
   # geom_fruit(
   #   geom=geom_star,
   #   mapping=aes(starshape=Study),
@@ -131,7 +137,7 @@ zoom1=zoom_peru+
     geom=geom_star,
     mapping=aes(fill=sequence.m49_country.display_name,  starshape=Study),
     position="identity",colour="black", starstroke=0.1, 
-   size=2
+   size=3, offset=0.4
   )+
  colScale1+
 #  scale_fill_manual(name = "",
@@ -153,8 +159,8 @@ zoom1=zoom_peru+
     axis.params=list(
       axis="x", # add axis text of the layer.
       text.angle=-45,
-      text.size=2,# the text angle of x-axis.
-      vjust=1, hjust=0 ,nbreak=10 # adjust the horizontal position of text of axis.
+      text.size=3,# the text angle of x-axis.
+      vjust=1, hjust=0 ,nbreak=5 # adjust the horizontal position of text of axis.
     )
   )+  
 colScale1+

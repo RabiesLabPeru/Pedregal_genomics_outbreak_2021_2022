@@ -72,7 +72,7 @@ plot_lac<-
         #this bit removes the axis lables     
         axis.title.y=element_blank(),
         axis.title.x=element_blank(),
-        panel.background = element_rect(fill = "aliceblue"))+
+        panel.background = element_rect(fill = "white"))+
    guides(fill="none", col="none"); plot_lac
  # geom_text(data=subset(lac_points, admin %in% countries),aes(x=X, y=Y, label=admin),color = "darkblue", fontface = "bold", check_overlap = F, size=3, nudge_y = -1.5)
 
