@@ -24,15 +24,12 @@
     library(patchwork)
     
 # Mapping cases of Pedregal ---- 
-  
-  # Calling databases
-    setwd("/Users/pmacs/Documents/Mapeos")
 
   # Read data
-    PEDREGAL<-read.csv("PEDREGAL_parcelas.csv")
-    PEDREGALURBAN<-read.csv("PEDREGAL_centro.csv")
-    CASOS2021<-read.csv2("Casos_Rabia_2021_Seq.csv")
-    CASOS2022<-read.csv2("Casos_Rabia_2022_Seq.csv")
+    PEDREGAL<-read.csv("raw_data/PEDREGAL_parcelas.csv")
+    PEDREGALURBAN<-read.csv("raw_data/PEDREGAL_centro.csv")
+    CASOS2021<-read.csv2("raw_data/Casos_Rabia_2021_Seq.csv")
+    CASOS2022<-read.csv2("raw_data/Casos_Rabia_2022_Seq.csv")
     
   # Rabies cases
     vector_2021 <- rep("2021", times = 76)
@@ -44,14 +41,14 @@
   # join data by year
     CASOSPED <- bind_rows(CASOS2021,CASOS2022) 
     
-    CASOSPED <- select(CASOSPED,ident,long,lat,Year,Sequenced,Cases_ID)
+    CASOSPED <- dplyr::select(CASOSPED,ident,long,lat,Year,Sequenced,Cases_ID)
     CASOSPED <- na.omit(CASOSPED)
     CASOSPED$ident <- gsub("Caso0","",CASOSPED$ident)
     CASOSPED <- CASOSPED %>%
                 st_as_sf(coords = c("long", "lat"), crs = 4326)
   
   # Pedregal blocks
-    PED <- select(PEDREGAL,ident,long,lat)
+    PED <- dplyr::select(PEDREGAL,ident,long,lat)
     PED <- na.omit(PED)
     
     PED <- PED %>%
@@ -64,7 +61,7 @@
     PED <- cbind(PED, zone = rural) 
   
   # Pedregal urban blocks
-    PEDURB <- select(PEDREGALURBAN,ident,long,lat)
+    PEDURB <- dplyr::select(PEDREGALURBAN,ident,long,lat)
     PEDURB <- na.omit(PEDURB)
     
     PEDURB <- PEDURB %>%
@@ -186,8 +183,8 @@
                   axis.title.x = element_blank(), 
                   axis.title.y = element_blank(),
                   panel.border = element_rect(color = "gray20", fill = NA),
-                  legend.text = element_text(size = 12),  
-                  legend.title = element_text(size = 14)) +
+                  legend.text = element_text(size = 14),  
+                  legend.title = element_text(size = 16)) +
             annotation_scale(location = "bl", height = unit(0.4, "cm"),
                              pad_x = unit(1, "cm"),pad_y = unit(0.8, "cm")) +
             annotation_north_arrow(location = "br", which_north = "true", 
@@ -198,14 +195,29 @@
 
     
   # joining maps ----
-    mapa1 <- map_1 + labs(title = "A")
-    mapa2 <- cases + labs(title = "B")
+    mapa1 <- map_1 +
+      annotate("text", x = -Inf, y = Inf, label = "A", 
+               hjust = -0.5, vjust = 1.5, size = 8, fontface = "bold")
+    
+    mapa2 <- cases +
+      annotate("text", x = -Inf, y = Inf, label = "B", 
+               hjust = -0.5, vjust = 1.5, size = 8, fontface = "bold")
     
   # Combine the two maps into a single graph
     mapa_combinado <- mapa1 + mapa2 + plot_layout(ncol = 2)
     
+    print(mapa_combinado)
+    
   # save map in various formats
-    ggsave("maps_pedregal.png", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
-    ggsave("maps_pedregal.jpeg", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
-    ggsave("maps_pedregal.tiff", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
+    ggsave("maps_pedregal3.png", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
+    ggsave("maps_pedregal3.jpeg", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
+    ggsave("maps_pedregal3.tiff", plot = mapa_combinado, width = 1900 / 96, height = 800 / 96, dpi = 96)
+    
+    
+    
+   
+    
+   
+    
+    
     
