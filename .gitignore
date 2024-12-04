@@ -6,3 +6,5 @@
 .Rhistory
 .RData
 .Ruserdata
+scripts/.DS_Store
+tables/.DS_Store
