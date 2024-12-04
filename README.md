@@ -2,7 +2,7 @@
 
 Public repository containing all the code and de-identified data for: https://www.biorxiv.org/content/10.1101/2024.08.21.608982v1
 
-Renzo Salazar*, Kirstyn Brunker*, Elvis W. Díaz, Edith Zegarra, Ynes Monroy,  Gorky N. Baldarrago, Katty Borrini-Mayorí1, Micaela De la Puente-León1, Sandeep Kasaragod, Michael Z. Levy, Katie Hampson, Ricardo Castillo-Neyra
+Renzo Salazar*, Kirstyn Brunker*, Elvis W. Díaz, Edith Zegarra, Ynes Monroy,  Gorky N. Baldarrago, Katty Borrini-Mayorí, Micaela De la Puente-León, Sandeep Kasaragod, Michael Z. Levy, Katie Hampson, Ricardo Castillo-Neyra
 
 *Equal contributions
 
@@ -20,15 +20,15 @@ Renzo Salazar*, Kirstyn Brunker*, Elvis W. Díaz, Edith Zegarra, Ynes Monroy,  G
 This paper combines epidemiological and genomic analyses briefly described below:
 
 ### Sequencing
-Illumina sequencing was carried out on archived RNA using protocols described in [Brunker et al. 20023](https://doi.org/10.1093/ve/vev011).
+Illumina sequencing was carried out on archived RNA using protocols described in [Brunker *et al*. 2015](https://doi.org/10.1093/ve/vev011) and [Tong *et al*. 2023](https://dx.doi.org/10.17504/protocols.io.261ge34zol47/v1).
 
-Nanopore sequencing was carried out following protocols from [Brunker *et al*. 2020](https://dx.doi.org/10.17504/protocols.io), with videos to support implementation available from [Bautista *et al* 2023](https://www.jove.com/de/t/65414/whole-genome-sequencing-for-rapid-characterization-rabies-virus-using).
+Nanopore sequencing was carried out following protocols from [Brunker *et al*. 2020](https://dx.doi.org/10.17504/protocols.io), with videos to support implementation available from [Bautista *et al*. 2023](https://www.jove.com/de/t/65414/whole-genome-sequencing-for-rapid-characterization-rabies-virus-using).
 
 
 ### Phylogenetic analysis
 1. Trees were generated from publicly available data downloaded from [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/home) and new sequences generated as part of this study. The sequence data and associated metadata is available in the data folder.
-2. Data were processed following a pipeline for combining WGS and partial sequences described in [Holz *et al*. 2022](https://www.nature.com/articles/s41467-023-39847-x) and Yuson & Bautista et al. in press, with custom R scipts to curate, clean and process data.
-3. Sequence alignment and phylogenetic reconstruction was undertaken following methods described in [Bautista *et al. in press*](https://github.com/boydorr/outbreak_romblon_PHL/blob/main/README.md).
+2. Data were processed following a pipeline for combining WGS and partial sequences described in [Holz *et al*. 2022](https://www.nature.com/articles/s41467-023-39847-x) and Yuson & Bautista *et al*. in press, with custom R scipts to curate, clean and process data.
+3. Sequence alignment and phylogenetic reconstruction was undertaken following methods described in [Bautista *et al*. in press*](https://github.com/boydorr/outbreak_romblon_PHL/blob/main/README.md).
    
 ## License
 This repository is licensed under the GPL-2 License. 
