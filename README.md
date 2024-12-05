@@ -1,6 +1,7 @@
 # Genomic Characterization of a Dog-Mediated Rabies Outbreak in El Pedregal, Arequipa, Peru
 
-Public repository containing all the code and de-identified data for: https://www.biorxiv.org/content/10.1101/2024.08.21.608982v1
+Public repository containing all the code and de-identified data for: https://www.biorxiv.org/content/10.1101/2024.08.21.608982v1 
+[![DOI](https://zenodo.org/badge/DOI/0.5281/zenodo.14282298.svg)](https://doi.org/10.5281/zenodo.14282298)
 
 Renzo Salazar*, Kirstyn Brunker*, Elvis W. Díaz, Edith Zegarra, Ynes Monroy,  Gorky N. Baldarrago, Katty Borrini-Mayorí, Micaela De la Puente-León, Sandeep Kasaragod, Michael Z. Levy, Katie Hampson, Ricardo Castillo-Neyra
 
